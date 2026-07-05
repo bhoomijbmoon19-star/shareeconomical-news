@@ -3,11 +3,19 @@ on:
   schedule:
     - cron: '30 2 * * *' # 8:00 AM IST
   workflow_dispatch:
+
+# This gives the Action permission to push files
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
       - name: Fetch 80 articles from GNews
         run: |
           queries=("Sensex OR Nifty OR BSE" "RBI OR SEBI OR repo rate" "IPO OR public offer" "cryptocurrency OR bitcoin" "GDP OR Indian economy" "NSE OR stock market" "inflation OR interest rate India" "mutual fund OR SIP")
@@ -17,11 +25,12 @@ jobs:
             jq -s '.[0] +.[1]' news.json temp.json > combined.json && mv combined.json news.json
             sleep 2
           done
-          echo "Total: $(jq length news.json) articles"
+          echo "Total articles: $(jq length news.json)"
+      
       - name: Commit news.json
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add news.json
-          git diff --staged --quiet || git commit -m "Update news $(date +'%Y-%m-%d')"
+          git diff --staged --quiet || git commit -m "Update market news $(date +'%Y-%m-%d')"
           git push
