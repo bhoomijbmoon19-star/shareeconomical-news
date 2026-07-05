@@ -1,0 +1,27 @@
+name: Update Market News Daily
+on:
+  schedule:
+    - cron: '30 2 * * *' # 8:00 AM IST
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fetch 80 articles from GNews
+        run: |
+          queries=("Sensex OR Nifty OR BSE" "RBI OR SEBI OR repo rate" "IPO OR public offer" "cryptocurrency OR bitcoin" "GDP OR Indian economy" "NSE OR stock market" "inflation OR interest rate India" "mutual fund OR SIP")
+          echo "[]" > news.json
+          for query in "${queries[@]}"; do
+            curl -s "https://gnews.io/api/v4/search?q=$(echo $query | jq -sRr @uri)&lang=en&country=in&max=10&apikey=14817683d50abf6b6f09c2ceff69cd4d" | jq '.articles // []' > temp.json
+            jq -s '.[0] +.[1]' news.json temp.json > combined.json && mv combined.json news.json
+            sleep 2
+          done
+          echo "Total: $(jq length news.json) articles"
+      - name: Commit news.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add news.json
+          git diff --staged --quiet || git commit -m "Update news $(date +'%Y-%m-%d')"
+          git push
