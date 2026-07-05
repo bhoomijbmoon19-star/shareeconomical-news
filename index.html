@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShareEconomical - Market News Hub</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: linear-gradient(135deg, #fef3c7 0%, #fde68a 50%, #fffbeb 100%); min-height: 100vh; padding: 20px; color: #1e293b; }
+      .container { max-width: 1200px; margin: 0 auto; }
+        header { background: white; border-radius: 16px; padding: 20px 30px; margin-bottom: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px; }
+      .logo { display: flex; align-items: center; gap: 12px; }
+      .logo-icon { width: 40px; height: 40px; background: linear-gradient(135deg, #f59e0b, #d97706); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 20px; }
+      .logo-text h1 { font-size: 20px; font-weight: 700; color: #92400e; }
+      .logo-text p { font-size: 12px; color: #64748b; }
+      .refresh-btn { background: #f59e0b; color: white; border: none; padding: 10px 20px; border-radius: 8px; font-weight: 600; cursor: pointer; display: flex; align-items: center; gap: 8px; transition: all 0.2s; }
+      .refresh-btn:hover { background: #d97706; transform: translateY(-1px); }
+      .refresh-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+      .stats-card { background: white; border-radius: 16px; padding: 30px; margin-bottom: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+      .stats-card h2 { font-size: 24px; margin-bottom: 8px; }
+      .stats-card > p { color: #64748b; margin-bottom: 24px; }
+      .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 24px; margin-bottom: 24px; }
+      .stat-item h3 { font-size: 36px; font-weight: 700; margin-bottom: 4px; }
+      .stat-item p { font-size: 14px; color: #64748b; }
+      .stat-articles { color: #1e293b; }
+      .stat-updated { color: #f59e0b; }
+      .stat-sources { color: #10b981; }
+      .stat-refresh { color: #8b5cf6; }
+      .filters { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 24px; }
+      .filter-btn { padding: 10px 20px; border: 2px solid #e2e8f0; background: white; border-radius: 10px; cursor: pointer; font-weight: 600; transition: all 0.2s; display: flex; align-items: center; gap: 6px; }
+      .filter-btn:hover { border-color: #f59e0b; transform: translateY(-1px); }
+      .filter-btn.active { background: #f59e0b; color: white; border-color: #f59e0b; }
+      .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 24px; margin-bottom: 40px; }
+      .news-card { background: white; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: all 0.3s; cursor: pointer; display: flex; flex-direction: column; }
+      .news-card:hover { transform: translateY(-4px); box-shadow: 0 8px 24px rgba(0,0,0,0.12); }
+      .news-image { width: 100%; height: 200px; object-fit: cover; background: linear-gradient(135deg, #fef3c7, #fde68a); }
+      .news-content { padding: 20px; flex: 1; display: flex; flex-direction: column; }
+      .news-meta { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; font-size: 12px; }
+      .news-category { padding: 4px 12px; border-radius: 20px; font-weight: 600; font-size: 11px; text-transform: uppercase; }
+      .category-markets { background: #dbeafe; color: #1e40af; }
+      .category-economy { background: #d1fae5; color: #059669; }
+      .category-ipo { background: #fef3c7; color: #92400e; }
+      .category-crypto { background: #e9d5ff; color: #7c3aed; }
+      .category-rbi { background: #fee2e2; color: #dc2626; }
+      .category-general { background: #f1f5f9; color: #475569; }
+      .news-date { color: #64748b; }
+      .news-title { font-size: 18px; font-weight: 700; margin-bottom: 12px; line-height: 1.4; color: #1e293b; }
+      .news-description { font-size: 14px; color: #475569; line-height: 1.6; margin-bottom: 16px; flex: 1; }
+      .news-footer { display: flex; justify-content: space-between; align-items: center; padding-top: 16px; border-top: 1px solid #e2e8f0; font-size: 12px; color: #64748b; }
+      .news-source { font-weight: 600; }
+      .error-state { background: white; border-radius: 16px; padding: 60px 30px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+      .error-icon { width: 64px; height: 64px; background: #fee2e2; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px; font-size: 32px; }
+      .error-state h3 { font-size: 20px; margin-bottom: 8px; color: #1e293b; }
+      .error-state p { color: #64748b; margin-bottom: 24px; }
+      .loading { text-align: center; padding: 60px; color: #64748b; }
+      .spinner { width: 40px; height: 40px; border: 4px solid #e2e8f0; border-top-color: #f59e0b; border-radius: 50%; animation: spin 1s linear infinite; margin: 0 auto 16px; }
+        @keyframes spin { to { transform: rotate(360deg); } }
+      .toast { position: fixed; bottom: 24px; right: 24px; background: #1e293b; color: white; padding: 16px 24px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2); display: none; z-index: 1000; animation: slideIn 0.3s ease; }
+      .toast.show { display: block; }
+        @keyframes slideIn { from { transform: translateX(400px); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+        footer { text-align: center; padding: 30px; color: #64748b; font-size: 14px; }
+        @media (max-width: 768px) {.news-grid { grid-template-columns: 1fr; } header { padding: 16px 20px; } }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <div class="logo-icon">📈</div>
+                <div class="logo-text">
+                    <h1>ShareEconomical</h1>
+                    <p>Market & Economy News Hub</p>
+                </div>
+            </div>
+            <button class="refresh-btn" onclick="loadNews(true)">
+                <span>↻</span> Refresh
+            </button>
+        </header>
+        
+        <div class="stats-card">
+            <h2>Latest Market & Economy News</h2>
+            <p>Stay updated with Sensex, Nifty, RBI policy, IPO alerts, crypto, and global market moves from trusted sources.</p>
+            
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <h3 class="stat-articles" id="articlesCount">0</h3>
+                    <p>Articles Today</p>
+                </div>
+                <div class="stat-item">
+                    <h3 class="stat-updated" id="lastUpdated">--:--</h3>
+                    <p>Last Updated (IST)</p>
+                </div>
+                <div class="stat-item">
+                    <h3 class="stat-sources" id="sourcesCount">3</h3>
+                    <p>News Sources</p>
+                </div>
+                <div class="stat-item">
+                    <h3 class="stat-refresh" id="nextRefresh">13h 30m</h3>
+                    <p>Next Refresh</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="filters">
+            <button class="filter-btn active" data-filter="all">All News</button>
+            <button class="filter-btn" data-filter="markets">📊 Markets</button>
+            <button class="filter-btn" data-filter="economy">🏦 Economy</button>
+            <button class="filter-btn" data-filter="ipo">🚀 IPOs</button>
+            <button class="filter-btn" data-filter="crypto">₿ Crypto</button>
+            <button class="filter-btn" data-filter="rbi">🇮🇳 RBI/SEBI</button>
+        </div>
+        
+        <div id="newsContainer"></div>
+        
+        <footer>
+            <p>© 2024 ShareEconomical. Aggregating trusted market news from ET, MoneyControl, Bloomberg, and global sources.</p>
+            <p style="margin-top: 8px; font-size: 12px;">For informational purposes only. Not financial advice. Consult your advisor before investing.</p>
+        </footer>
+    </div>
+    
+    <div class="toast" id="toast"></div>
+    
+    <script>
+        const CONFIG = {
+            API_KEY: '14817683d50abf6b6f09c2ceff69cd4d',
+            FINANCE_QUERIES: [
+                'Sensex OR Nifty OR BSE',
+                'RBI OR SEBI OR "repo rate"',
+                'IPO OR "public offer" OR listing',
+                'cryptocurrency OR bitcoin OR ethereum',
+                'GDP OR "Indian economy" OR budget',
+                'NSE OR "stock market" OR shares',
+                'inflation OR "interest rate" India',
+                '"mutual fund" OR SIP OR investment'
+            ],
+            MAX_ARTICLES: 80,
+            CACHE_DURATION: 30 * 60 * 1000
+        };
+        
+        let allArticles = [];
+        let currentFilter = 'all';
+        
+        async function loadNews(forceRefresh = false) {
+            showLoading();
+            document.querySelector('.refresh-btn').disabled = true;
+            
+            try {
+                if (!forceRefresh) {
+                    const cached = getCachedNews();
+                    if (cached &&!isCacheStale(cached.timestamp)) {
+                        allArticles = cached.articles;
+                        displayArticles();
+                        updateLastUpdated(cached.timestamp);
+                        showToast('Loaded from cache', 'info');
+                        document.querySelector('.refresh-btn').disabled = false;
+                        return;
+                    }
+                }
+                
+                const articles = await fetchFinanceNews();
+                console.log('Fetched articles:', articles.length);
+                
+                if (articles.length > 0) {
+                    allArticles = articles.slice(0, CONFIG.MAX_ARTICLES);
+                    cacheNews(allArticles);
+                    displayArticles();
+                    const now = new Date().toISOString();
+                    updateLastUpdated(now);
+                    showToast(`${allArticles.length} articles loaded`, 'success');
+                } else {
+                    throw new Error('No articles returned from API');
+                }
+            } catch (error) {
+                console.error('Error loading news:', error);
+                showError();
+                showToast('Failed to load news: ' + error.message, 'error');
+            } finally {
+                document.querySelector('.refresh-btn').disabled = false;
+            }
+        }
+        
+        async function fetchFinanceNews() {
+            try {
+                const queryPromises = CONFIG.FINANCE_QUERIES.map(query =>
+                    fetch(`https://api.allorigins.win/get?url=${encodeURIComponent(`https://gnews.io/api/v4/search?q=${encodeURIComponent(query)}&lang=en&country=in&max=10&apikey=${CONFIG.API_KEY}`)}`)
+                     .then(r => r.json())
+                     .then(data => {
+                            const parsed = JSON.parse(data.contents);
+                            console.log('Query:', query, 'Results:', parsed.articles?.length || 0);
+                            return parsed;
+                        })
+                     .catch(err => {
+                            console.warn('GNews query failed:', query, err);
+                            return { articles: [] };
+                        })
+                );
+                
+                const results = await Promise.all(queryPromises);
+                const articles = results.flatMap(r => r.articles || [])
+                 .filter(a => a.title && a.description && a.url)
+                 .map(a => ({
+                        title: a.title,
+                        description: a.description,
+                        url: a.url,
+                        image: a.image || 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800',
+                        source: a.source?.name || 'Market News',
+                        publishedAt: a.publishedAt,
+                        category: categorizeArticle(a.title + ' ' + a.description)
+                    }));
+                
+                return removeDuplicates(articles);
+            } catch (err) {
+                console.error('GNews API failed:', err);
+                throw err;
+            }
+        }
+        
+        function categorizeArticle(text) {
+            const lower = text.toLowerCase();
+            if (lower.match(/sensex|nifty|bse|nse|stock|shares|market/i)) return 'markets';
+            if (lower.match(/rbi|sebi|repo rate|inflation|interest rate|policy/i)) return 'rbi';
+            if (lower.match(/ipo|listing|public offer|sme ipo/i)) return 'ipo';
+            if (lower.match(/crypto|bitcoin|ethereum|blockchain|token|web3/i)) return 'crypto';
+            if (lower.match(/gdp|budget|economy|fiscal|economic|growth|recession/i)) return 'economy';
+            return 'general';
+        }
+        
+        function removeDuplicates(articles) {
+            const seen = new Set();
+            return articles.filter(a => {
+                const key = a.title.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 50);
+                if (seen.has(key)) return false;
+                seen.add(key);
+                return true;
+            });
+        }
+        
+        function displayArticles() {
+            const container = document.getElementById('newsContainer');
+            const filtered = currentFilter === 'all' 
+             ? allArticles 
+                : allArticles.filter(a => a.category === currentFilter);
+            
+            if (filtered.length === 0) {
+                container.innerHTML = `
+                    <div class="error-state">
+                        <div class="error-icon">!</div>
+                        <h3>No articles found</h3>
+                        <p>Try selecting a different category or refresh the page.</p>
+                        <button class="refresh-btn" onclick="loadNews(true)">
+                            <span>↻</span> Try Again
+                        </button>
+                    </div>
+                `;
+                return;
+            }
+            
+            document.getElementById('articlesCount').textContent = filtered.length;
+            const sources = new Set(filtered.map(a => a.source)).size;
+            document.getElementById('sourcesCount').textContent = sources;
+            
+            container.innerHTML = '<div class="news-grid">' + filtered.map(article => `
+                <article class="news-card" onclick="window.open('${article.url}', '_blank')">
+                    <img src="${article.image}" alt="${article.title}" class="news-image" onerror="this.src='https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800'">
+                    <div class="news-content">
+                        <div class="news-meta">
+                            <span class="news-category category-${article.category}">${article.category}</span>
+                            <span class="news-date">${formatDate(article.publishedAt)}</span>
+                        </div>
+                        <h3 class="news-title">${article.title}</h3>
+                        <p class="news-description">${article.description}</p>
+                        <div class="news-footer">
+                            <span class="news-source">${article.source}</span>
+                            <span>Read more →</span>
+                        </div>
+                    </div>
+                </article>
+            `).join('') + '</div>';
+        }
+        
+        function formatDate(dateString) {
+            const date = new Date(dateString);
+            const now = new Date();
+            const diff = now - date;
+            const hours = Math.floor(diff / 3600000);
+            if (hours < 1) return 'Just now';
+            if (hours < 24) return `${hours}h ago`;
+            const days = Math.floor(hours / 24);
+            return `${days}d ago`;
+        }
+        
+        function updateLastUpdated(timestamp) {
+            const date = new Date(timestamp);
+            const istTime = new Date(date.toLocaleString('en-US', { timeZone: 'Asia/Kolkata' }));
+            const hours = istTime.getHours().toString().padStart(2, '0');
+            const minutes = istTime.getMinutes().toString().padStart(2, '0');
+            document.getElementById('lastUpdated').textContent = `${hours}:${minutes}`;
+            updateNextRefresh();
+        }
+        
+        function updateNextRefresh() {
+            const now = new Date();
+            const tomorrow8am = new Date();
+            tomorrow8am.setHours(8, 0, 0, 0);
+            if (now > tomorrow8am) tomorrow8am.setDate(tomorrow8am.getDate() + 1);
+            const diff = tomorrow8am - now;
+            const hours = Math.floor(diff / 3600000);
+            const minutes = Math.floor((diff % 3600000) / 60000);
+            document.getElementById('nextRefresh').textContent = `${hours}h ${minutes}m`;
+        }
+        
+        function showLoading() {
+            document.getElementById('newsContainer').innerHTML = `
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p>Loading latest market news...</p>
+                </div>
+            `;
+        }
+        
+        function showError() {
+            document.getElementById('newsContainer').innerHTML = `
+                <div class="error-state">
+                    <div class="error-icon">!</div>
+                    <h3>Unable to Load News</h3>
+                    <p>Check console for details or try again.</p>
+                    <button class="refresh-btn" onclick="loadNews(true)">
+                        <span>↻</span> Try Again
+                    </button>
+                </div>
+            `;
+        }
+        
+        function showToast(message, type = 'info') {
+            const toast = document.getElementById('toast');
+            toast.textContent = message;
+            toast.className = 'toast show';
+            setTimeout(() => { toast.className = 'toast'; }, 3000);
+        }
+        
+        function getCachedNews() {
+            try {
+                const cached = localStorage.getItem('se_news_cache');
+                return cached? JSON.parse(cached) : null;
+            } catch { return null; }
+        }
+        
+        function cacheNews(articles) {
+            try {
+                localStorage.setItem('se_news_cache', JSON.stringify({
+                    articles,
+                    timestamp: new Date().toISOString()
+                }));
+            } catch (e) { console.warn('Failed to cache news:', e); }
+        }
+        
+        function isCacheStale(timestamp) {
+            return Date.now() - new Date(timestamp).getTime() > CONFIG.CACHE_DURATION;
+        }
+        
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentFilter = btn.dataset.filter;
+                displayArticles();
+            });
+        });
+        
+        setInterval(updateNextRefresh, 60000);
+        loadNews();
+    </script>
+</body>
+</html>
