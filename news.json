@@ -1,28 +1,12 @@
 [
   {
-    "id": "7b3b46f202b1ed51f45c991c3f708753",
-    "title": "Technocraft Ventures raises Rs 75.55 cr from anchor investors ahead of IPO",
-    "description": "Technocraft Ventures Ltd secured Rs 75.55 crore from anchor investors before its public offering. The company's Rs 252-crore initial public offering will open for subscription on August 7. It has fixed a price band of Rs 200-212 per share for the issue. Proceeds will fund working capital and general corporate purposes. The infrastructure firm's equity shares are proposed for listing on the BSE and NSE.",
-    "content": "Synopsis\nTechnocraft Ventures Ltd secured Rs 75.55 crore from anchor investors before its public offering. The company's Rs 252-crore initial public offering will open for subscription on August 7. It has fixed a price band of Rs 200-212 per share fo... [3924 chars]",
-    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-raises-rs-75-55-cr-from-anchor-investors-ahead-of-ipo/articleshow/133010430.cms",
-    "image": "https://img.etimg.com/thumb/msid-133010444,width-1200,height-630,imgsize-104090,overlay-etmarkets/articleshow.jpg",
-    "publishedAt": "2026-08-06T15:52:00Z",
-    "lang": "en",
-    "source": {
-      "id": "5464668c1f0466950a0b2fab5249ec6c",
-      "name": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "138de17b2352b2db7d493ffdb9056369",
-    "title": "GTL Infrastructure pays ₹5,900 fine to BSE, NSE for report delay",
-    "description": "GTL Infrastructure Limited paid ₹5,900 each to BSE and NSE for a one-day delay in filing a Regulation 23(9) report. The Board of Directors reviewed the case on August 6, 2026, calling the error inadvertent and instructing staff to ensure future compliance.",
-    "content": "GTL Infrastructure has settled a regulatory penalty with India’s two major stock exchanges following a minor filing delay. The company paid a fine of ₹5,900 inclusive of GST to each of the Bombay Stock Exchange (BSE) and the National Stock Exchange (... [8241 chars]",
-    "url": "https://scanx.trade/stock-market-news/companies/gtl-infrastructure-pays-5-900-fine-to-bse-nse-for-report-delay/47576648",
-    "image": "http://news-images.dhan.co/gtl-infrastructure-pays-5-900-fine-to-bse-nse-for-report-delay.jpg",
-    "publishedAt": "2026-08-06T15:44:18Z",
+    "id": "21caefa371203391826375527b2df56d",
+    "title": "JNK India hosts analyst meet at Emkay Global Conference in Mumbai",
+    "description": "JNK India Limited confirmed its participation in the Emkay Global Conference on August 14, 2026, in Mumbai. The physical meeting allows analysts and institutional investors to interact with management using only publicly available data. The company notified BSE and NSE of the schedule under Regulation 30 of SEBI LODR, ensuring no unpublished price-sensitive information is shared.",
+    "content": "JNK India will host an analyst and institutional investor meeting on August 14, 2026, in Mumbai. The session is scheduled as part of the Emkay Global Conference and will provide stakeholders with an opportunity to engage with company management. This... [6602 chars]",
+    "url": "https://scanx.trade/stock-market-news/companies/jnk-india-hosts-analyst-meet-at-emkay-global-conference-in-mumbai/47661999",
+    "image": "http://news-images.dhan.co/jnk-india-hosts-analyst-meet-at-emkay-global-conference-in-mumbai.jpg",
+    "publishedAt": "2026-08-07T15:26:49Z",
     "lang": "en",
     "source": {
       "id": "f746366686e467440a63dd26dbb72053",
@@ -32,13 +16,29 @@
     }
   },
   {
-    "id": "66fb6d739f60c2b4b1b58995b3c91a35",
-    "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
-    "description": "Indian markets found support from easing crude oil prices and the RBI's stable policy outlook despite range-bound trade. Analysts said Nifty holding above 24,600 keeps bullish momentum intact, with improving earnings expectations and stock-specific buying supporting broader market resilience.",
-    "content": "Synopsis\nIndian markets found support from easing crude oil prices and the RBI's stable policy outlook despite range-bound trade. Analysts said Nifty holding above 24,600 keeps bullish momentum intact, with improving earnings expectations and stock-s... [5813 chars]",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/133010188.cms",
-    "image": "https://img.etimg.com/thumb/msid-133010224,width-1200,height-630,imgsize-34964,overlay-etmarkets/articleshow.jpg",
-    "publishedAt": "2026-08-06T15:38:00Z",
+    "id": "44702d02786f04aeceaec7363294f41c",
+    "title": "BSE and NSE propose tighter framework for authorised persons of brokerages",
+    "description": "The exchanges aim to strengthen the supervision of authorised persons.",
+    "content": "The new proposal mandates the APs of stock brokers who provide access to trading platform of a stock exchange as an agent to have a valid certification on securities operations and risk management from NISM (National Institute of Securities Markets).... [2731 chars]",
+    "url": "https://www.financialexpress.com/market/bse-and-nse-propose-tighter-framework-for-authorised-persons-of-brokerages-4313175/",
+    "image": "https://images.financialexpressdigital.com/2026/08/Share-Market-1-Reuters_20260407010633_20260609005802_20260710011857_20260713180151_20260805011837_20260805193157_20260807133917.jpg",
+    "publishedAt": "2026-08-07T13:42:33Z",
+    "lang": "en",
+    "source": {
+      "id": "63361c66f51ee0c82a5325ba1c7b8d06",
+      "name": "The Financial Express",
+      "url": "https://www.financialexpress.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "2300d3a8d33f8be51240c8e7a54863f1",
+    "title": "BSE Index Services launches BSE REITs Index. Here's everything you need to know",
+    "description": "BSE Index Services has launched the BSE REITs Index to track the performance of listed Real Estate Investment Trusts in India. The index comprises six REITs and has delivered an 18.54% one-year return on a total-return basis. Embassy Office Parks REIT has the highest weight at 32.18%.",
+    "content": "BSE Index Services, a wholly owned subsidiary of BSE, has launched the BSE REITs Index, a new benchmark designed to measure the performance of listed Real Estate Investment Trusts (REITs) in India.\nThe BSE REITs Index has a base value of 1,000 with a... [3723 chars]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/bse-index-services-launches-bse-reits-index-heres-everything-you-need-to-know/articleshow/133033836.cms",
+    "image": "https://img.etimg.com/thumb/msid-133033836,width-1200,height-630,imgsize-10826,overlay-etmarkets/articleshow.jpg",
+    "publishedAt": "2026-08-07T12:23:00Z",
     "lang": "en",
     "source": {
       "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -48,61 +48,13 @@
     }
   },
   {
-    "id": "5893435e6038268880e1adea17c95083",
-    "title": "Market Trading Guide: Tata Technologies among 2 stock recommendations for Friday -",
-    "description": "Nifty remained range-bound yet technically strong, while analysts recommended Tata Technologies and AIIL as buy picks based on bullish breakouts and momentum. Market Trading Guide: Tata Technologies among 2 stock recommendations for Friday",
-    "content": "IRFC Share Price89.29-32.5%0.4(0.44%) Upside Suzlon Energy Share Price48.128.7%-0.05(-0.11%) Upside IREDA Share Price121.0249.1%0.32(0.27%) Upside Tata Motors PV Share Price345.355.7%-4.45(-1.28%) Upside YES Bank Share Price22.68-9.3%-0.29(-1.27%) Up... [2232 chars]",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-tata-technologies-among-2-stock-recommendations-for-friday/market-trading-guide-tata-technologies-among-2-stock-recommendations-for-fridaybr/slideshow/133010183.cms",
-    "image": "https://img.etimg.com/thumb/msid-133010183,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-    "publishedAt": "2026-08-06T15:36:00Z",
-    "lang": "en",
-    "source": {
-      "id": "5464668c1f0466950a0b2fab5249ec6c",
-      "name": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "d7767d1d69c000789374692a936c4fa3",
-    "title": "Market Trading Guide: Tata Technologies among 2 stock recommendations for Friday",
-    "description": "Nifty ended nearly flat after a range-bound session but stayed above key moving averages, preserving its bullish trend. Analysts recommended Tata Technologies and AIIL as buy ideas, citing breakout patterns, strong momentum, rising volumes and favourable technical indicators for further upside.",
-    "content": "Synopsis\nNifty ended nearly flat after a range-bound session but stayed above key moving averages, preserving its bullish trend. Analysts recommended Tata Technologies and AIIL as buy ideas, citing breakout patterns, strong momentum, rising volumes a... [7458 chars]",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-tata-technologies-among-2-stock-recommendations-for-friday/articleshow/133010149.cms",
-    "image": "https://img.etimg.com/thumb/msid-133010183,width-1200,height-630,imgsize-56096,overlay-etmarkets/articleshow.jpg",
-    "publishedAt": "2026-08-06T15:36:00Z",
-    "lang": "en",
-    "source": {
-      "id": "5464668c1f0466950a0b2fab5249ec6c",
-      "name": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "a5296187d34b0e1ce7687a29a4246f5c",
-    "title": "Closing auction mechanism: Sensex-Nifty divergence continues, experts expect gap to narrow",
-    "description": "Price disparity is expected to normalise as liquidity deepens and more participants enter the market, experts say.",
-    "content": "The auction mechanism, which was first enforced on Monday, has so far led to a more-than-usual divergence in the closing levels of both the benchmark indices due to thin volumes and differences between the two exchanges on the settlement for individu... [2433 chars]",
-    "url": "https://indianexpress.com/article/business/sensex-nifty-divergence-closing-auction-session-cas-rbi-market-update-10821190/",
-    "image": "https://images.indianexpress.com/2026/08/sensex-file-photo.jpg",
-    "publishedAt": "2026-08-06T14:14:00Z",
-    "lang": "en",
-    "source": {
-      "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-      "name": "The Indian Express",
-      "url": "https://indianexpress.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "cdb18703dec82be4ee5cac33d81fb182",
-    "title": "Aastha Spintex Announces Robust ₹51.46 Crore Order Book For Falcon Yarns; Strong Demand Visibility Through October 2026",
-    "description": "Aastha Spintex Limited (BSE: 544808; NSE: AASTHA), a cotton yarn manufacturer based in Gujarat, today reported a robust cumulative order book of around ₹51.46 Crore for Falcon Yarns Private Limited, its acquiring company, for the period from August 2026 to October 2026.",
-    "content": "Halvad (Gujarat) [India], August 5: Aastha Spintex Limited (BSE: 544808; NSE: AASTHA), a Gujarat-based cotton yarn manufacturer, today announced a strong cumulative order book position of approximately 51.46 Crores for Falcon Yarns Private Limited, i... [2065 chars]",
-    "url": "https://www.outlookbusiness.com/spotlight/news-wire/aastha-spintex-stock-price-up-10-on-rs-51-46-crore-order-book-for-falcon-yarns",
-    "image": "https://media.assettype.com/outlookbusiness/2026-08-05/b1sxkjgm/PNN_26.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-    "publishedAt": "2026-08-06T14:08:02Z",
+    "id": "9e6470838399588a9fca74e2ce81ce0a",
+    "title": "Chaotic Debut: How SEBI's Closing Auction Reform Fared In Its First Week",
+    "description": "The Closing Auction Session (CAS), introduced on Monday, August 3, by the Securities and Exchange Board of India (SEBI) for stocks with listed derivatives, was designed to strengthen price discovery, improve execution for institutional investors and bring India's market structure closer to global standards. Instead, its first week saw sharp end-of-day swings, confusion over official closing prices, unusual movements in derivatives and visible divergence between the benchmark Sensex and Nifty indices.The regulator, however, has shown little sign of reconsidering the reform. Senior SEBI officials, including board member KVR Murty, met leading brokerages during the week and conveyed that the auction mechanism was facing only \"teething issues\", as per a report by Bloomberg (BBG).",
+    "content": "Summary of this article\nSEBI's Closing Auction Session (CAS) completed a turbulent first week, triggering sharp end-of-day volatility and confusion among traders\nThe regulator has ruled out rolling back the reform, calling the disruptions temporary t... [10938 chars]",
+    "url": "https://www.outlookbusiness.com/markets/sebi-closing-auction-session-cas-first-week-performance-bse-nse-closing-volatility-traders-brokers-confusion",
+    "image": "https://media.assettype.com/outlookbusiness/2026-08-07/fql6ddq1/Chaos-Before-Calm-How-SEBIs-Closing-Auction-Reform-Navigated-A-Turbulent-First-Week?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+    "publishedAt": "2026-08-07T12:20:05Z",
     "lang": "en",
     "source": {
       "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
@@ -112,13 +64,61 @@
     }
   },
   {
-    "id": "3343e410dfb15afb5879420e269ac984",
-    "title": "Nifty Closing Auction Session gap narrows as markets adapt to new NSE mechanism",
-    "description": "Nifty's Closing Auction Session gap narrows to 8 points as markets adjust to NSE's new closing mechanism, improving price discovery and transparency.",
-    "content": "After the initial euphoria, the difference between the Closing Auction Session (CAS)-driven closing and the general market closing of Nifty is slowly narrowing as markets adjust to the new system.\nThe difference between Nifty’s closing price pre- and... [2214 chars]",
-    "url": "https://www.thehindubusinessline.com/markets/nifty-cas-gap-narrows-as-markets-adapt-to-new-system/article71313875.ece",
-    "image": "https://bl-i.thgim.com/public/incoming/r19z78/article71309864.ece/alternates/LANDSCAPE_1200/PO30_Stock_trade.jpg",
-    "publishedAt": "2026-08-06T14:00:01Z",
+    "id": "8b0ae7a3dabdb6b76005e992218f6ba8",
+    "title": "Market wrap: TCS, SBI, M&M, Trent among top gainers and losers on Nifty and Sensex on Friday",
+    "description": "Indian equities ended lower as the Closing Auction Session continued creating divergence between Sensex and Nifty. Banking and financial stocks dragged benchmarks, while auto and IT outperformed. Analysts said Niftys 24,500 support remains crucial despite easing momentum and continued profit booking.",
+    "content": "Indian equity markets ended the week's last trading session on a lower note on Friday, August 7, with the newly launched Closing Auction Session (CAS) continuing to create divergence between the benchmark indices, the NSE Nifty 50 and the BSE Sensex.... [3742 chars]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tcs-sbi-mm-trent-among-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/133033641.cms",
+    "image": "https://img.etimg.com/thumb/msid-133033641,width-1200,height-630,imgsize-146002,overlay-etmarkets/articleshow.jpg",
+    "publishedAt": "2026-08-07T12:17:00Z",
+    "lang": "en",
+    "source": {
+      "id": "5464668c1f0466950a0b2fab5249ec6c",
+      "name": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "03b2aabbf78b787fd6f9e627c7712d9a",
+    "title": "Asian markets turn defensive as investors await US payrolls, Fed signals",
+    "description": "Indian equity markets ended Friday in negative territory after a volatile trading session. The benchmark indices-- BSE Sensex closed at 78,499.17, down 0.58% or 455 points, and NSE Nifty 50 ended at 24,570.65, down 0.27%.",
+    "content": "Asian equity markets, including India, ended the week on a cautious note, with most major indices closing lower as investors reduced risk ahead of the closely watched US employment report. Market sentiment was also affected by higher crude oil prices... [3651 chars]",
+    "url": "https://www.newindianexpress.com/business/2026/Aug/07/asian-markets-turn-defensive-as-investors-await-us-payrolls-fed-signals",
+    "image": "https://cf-images.assettype.com/TNIE%2Fimport%2F2018%2F4%2F5%2Foriginal%2Fstock_exchange_US_China_trade_wall_street_AP.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+    "publishedAt": "2026-08-07T12:15:40Z",
+    "lang": "en",
+    "source": {
+      "id": "448094ed3f9461bb87a99a218cdaecfe",
+      "name": "The New Indian Express",
+      "url": "https://www.newindianexpress.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "193599ae6d48220304bf7a78c6b4922b",
+    "title": "LT Foods to host investor meet at Emkay Confluence 2026",
+    "description": "LT Foods Limited announced a physical investor meeting on August 13, 2026, at Emkay Confluence 2026. The Chief Corporate Development Officer and CFO will attend the 11:00 AM IST session. The disclosure complies with SEBI Regulation 30 and was filed with BSE and NSE on August 7, 2026.",
+    "content": "LT Foods Limited will host a physical meeting with analysts and institutional investors on August 13, 2026, as part of the Emkay Confluence 2026 event. The session is scheduled to begin at 11:00 AM IST and aims to provide market participants with an ... [6680 chars]",
+    "url": "https://scanx.trade/stock-market-news/companies/lt-foods-to-host-investor-meet-at-emkay-confluence-2026/47648524",
+    "image": "http://news-images.dhan.co/lt-foods-to-host-investor-meet-at-emkay-confluence-2026.jpg",
+    "publishedAt": "2026-08-07T11:42:15Z",
+    "lang": "en",
+    "source": {
+      "id": "f746366686e467440a63dd26dbb72053",
+      "name": "scanx.trade",
+      "url": "https://scanx.trade",
+      "country": "in"
+    }
+  },
+  {
+    "id": "59c6005d026aefaa94861651e2a469d1",
+    "title": "RBI draft NBFC lending norms hit financial stocks as Sensex, Nifty end lower",
+    "description": "RBI's draft NBFC lending rules hit financial stocks, dragging Sensex and Nifty lower despite strong Q1 earnings from SBI, Motherson Sumi and Hindalco.",
+    "content": "The Reserve Bank of India’s draft proposal to restrict revolving credit facilities for non-banking financial companies sent shockwaves through the financial sector on Friday, pulling benchmark indices lower even as strong corporate earnings from SBI,... [3074 chars]",
+    "url": "https://www.thehindubusinessline.com/markets/rbis-draft-nbfc-lending-norms-drag-sensex-nifty-despite-strong-q1-earnings/article71317374.ece",
+    "image": "https://bl-i.thgim.com/public/incoming/vniql8/article71271578.ece/alternates/LANDSCAPE_1200/PO13_BS_stock_market.jpg",
+    "publishedAt": "2026-08-07T11:35:52Z",
     "lang": "en",
     "source": {
       "id": "680f00482cbf9f314921fefd917871d9",
@@ -128,13 +128,221 @@
     }
   },
   {
-    "id": "a4f95c985ab1baa5278b1f8edc78857c",
-    "title": "Aegeus Technologies IPO subscribed 24.33 times on final day; listing likely on August 11",
-    "description": "Aegeus Technologies IPO | The IPO share allotment is expected to be finalised by August 7, and the company's shares are scheduled to be listed on the BSE SME platform on August 11.",
-    "content": "Liked this AI Summary?\nJoin our AI Workshop\nBengaluru-based solar panel cleaning robot maker Aegeus Technologies' initial public offering (IPO) was subscribed 24.33 times on August 6, the final day of bidding.\nThe Rs 23.71-crore SME IPO, which opened... [1819 chars]",
-    "url": "https://www.moneycontrol.com/news/business/ipo/aegeus-technologies-ipo-subscribed-24-33-times-on-final-day-listing-likely-on-august-11-13996822.html",
-    "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260806132736_Aegeus_Technologies1.jpg",
-    "publishedAt": "2026-08-06T13:57:02Z",
+    "id": "34dca4907d4cde238b608ef9dd09edd5",
+    "title": "Aurobindo Pharma among 8 stocks hitting 52-week highs; surge up to 20% in a month",
+    "description": "On Friday, the benchmark Sensex slipped 455 points to settle at 78,499. Despite the broader market weakness, eight stocks from the BSE 200 index hit fresh 52-week highs, reaching their highest price levels in the past year. A stock hitting a 52-week high is generally viewed as a positive technical signal, indicating strong investor interest, improving market sentiment, and potential upward momentum in the share price. New Peaks",
+    "content": "On Friday, the benchmark Sensex slipped 455 points to settle at 78,499. Despite the broader market weakness, eight stocks from the BSE 200 index hit fresh 52-week highs, reaching their highest price levels in the past year. A stock hitting a 52-week ... [545 chars]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/aurobindo-pharma-among-8-stocks-hitting-52-week-highs-surge-up-to-20-in-a-month/slideshow/133032470.cms",
+    "image": "https://img.etimg.com/thumb/msid-133032470,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+    "publishedAt": "2026-08-07T11:25:00Z",
+    "lang": "en",
+    "source": {
+      "id": "5464668c1f0466950a0b2fab5249ec6c",
+      "name": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "63ef8c24730f88287296647c5536fdc2",
+    "title": "Stock Markets Decline Dragged By Banks, Elevated Crude Oil Prices",
+    "description": "The 50-share NSE Nifty dipped 65.35 points, or 0.27%, to end at 24,570.65. Intra-day, it declined 113.25 points, or 0.45%, to 24,522.75.",
+    "content": "Market benchmark indices Sensex and Nifty ended lower on Friday after two days of gains, dragged down by bank, financial stocks, and crude oil prices trading above $80 per barrel mark.\nThe 30-share BSE Sensex dropped 455.59 points, or 0.58%, to settl... [1723 chars]",
+    "url": "https://www.outlookbusiness.com/markets/stock-markets-decline-dragged-by-banks-elevated-crude-oil-prices",
+    "image": "https://media.assettype.com/outlookbusiness/2026-05-04/mcdpxkia/Stock-Market?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+    "publishedAt": "2026-08-07T11:10:16Z",
+    "lang": "en",
+    "source": {
+      "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+      "name": "Outlook Business",
+      "url": "https://www.outlookbusiness.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "cbabe126397377860e116a02d0ce5782",
+    "title": "Indian bonds clock first weekly rise in five on dovish RBI, easing crude",
+    "description": "Indian government bonds finished the week with little change on Friday, yet celebrated their first gain in five weeks. A decline in oil prices and a calming tone from the central bank helped elevate demand for these bonds. The Reserve Bank of India opted to keep its repo rate steady, alleviating concerns over potential rate hikes in the near future.",
+    "content": "Synopsis\nIndian government bonds finished the week with little change on Friday, yet celebrated their first gain in five weeks. A decline in oil prices and a calming tone from the central bank helped elevate demand for these bonds. The Reserve Bank o... [7848 chars]",
+    "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-clock-first-weekly-rise-in-five-on-dovish-rbi-easing-crude/articleshow/133034019.cms",
+    "image": "https://img.etimg.com/thumb/msid-133034038,width-1200,height-630,imgsize-121016,overlay-etmarkets/articleshow.jpg",
+    "publishedAt": "2026-08-07T12:30:00Z",
+    "lang": "en",
+    "source": {
+      "id": "5464668c1f0466950a0b2fab5249ec6c",
+      "name": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "fc85e9896d00a98d1e79f5a8ad4f5140",
+    "title": "RBI's Rate Pause Sustains Steady Momentum in Residential Real Estate",
+    "description": "India's residential property sector remains robust, driven by consistent demand and advancements in infrastructure. The Reserve Bank of India's choice to hold the repo rate steady bolsters this positive trend, allowing homebuyers and property developers to make informed, future-focused decisions. With favorable financing conditions, developers can efficiently organize their project timelines and pricing, reinforcing a thriving residential market.",
+    "content": "Synopsis\nIndia's residential property sector remains robust, driven by consistent demand and advancements in infrastructure. The Reserve Bank of India's choice to hold the repo rate steady bolsters this positive trend, allowing homebuyers and propert... [7462 chars]",
+    "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/rbis-rate-pause-sustains-steady-momentum-in-residential-real-estate/articleshow/133031598.cms",
+    "image": "https://img.etimg.com/thumb/msid-133031658,width-1200,height-630,imgsize-129136,overlay-etmarkets/articleshow.jpg",
+    "publishedAt": "2026-08-07T10:51:00Z",
+    "lang": "en",
+    "source": {
+      "id": "5464668c1f0466950a0b2fab5249ec6c",
+      "name": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "c842ade2dcd8b50856abdf4e89372a80",
+    "title": "Can NRIs invest in RBI Floating Rate Savings Bonds offering 8.05% interest rate?",
+    "description": "Non-Resident Indians (NRIs) are prohibited from making new investments in RBI floating rate savings bonds; however, those who are existing holders may maintain their investments. The bonds offer an attractive interest rate of 8.05%, bolstered by government guarantees.",
+    "content": "Synopsis\nNon-Resident Indians (NRIs) are prohibited from making new investments in RBI floating rate savings bonds; however, those who are existing holders may maintain their investments. The bonds offer an attractive interest rate of 8.05%, bolstere... [3723 chars]",
+    "url": "https://economictimes.indiatimes.com/wealth/invest/can-nris-invest-in-rbi-floating-rate-savings-bonds-offering-8-05-interest-rate/articleshow/133031036.cms",
+    "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1604786,resizemode-75,msid-133031036/wealth/invest/can-nris-invest-in-rbi-floating-rate-savings-bonds-offering-8-05-interest-rate.jpg",
+    "publishedAt": "2026-08-07T10:42:41Z",
+    "lang": "en",
+    "source": {
+      "id": "5464668c1f0466950a0b2fab5249ec6c",
+      "name": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "051c5c58c545db8d58a251e8ab0458a9",
+    "title": "Goldman Sachs, CLSA split on RBI rate outlook as inflation, growth debate heats up",
+    "description": "Goldman Sachs' Santanu Sengupta expects the RBI to hike rates by 50-75 basis points from December, while CLSA's Nikhil Gupta sees no hikes at all, as the two economists also diverge on second-half growth and inflation following the RBI's dovish policy stance.",
+    "content": "Goldman Sachs' Santanu Sengupta expects the RBI to hike rates by 50-75 basis points from December, while CLSA's Nikhil Gupta sees no hikes at all, as the two economists also diverge on second-half growth and inflation following the RBI's dovish polic... [2657 chars]",
+    "url": "https://www.cnbctv18.com/economy/goldman-sachs-clsa-economists-split-rbi-rate-hike-inflation-growth-debate-heats-up-rupee-crude-oil-prices-19964211.htm",
+    "image": "https://images.cnbctv18.com/uploads/2026/06/india-economy-gst-gdp-rupee-energy-jun12-2026-06-c137a1c4378513d4501877c16072d6a8.jpg?im=FitAndFill,width=1200,height=675",
+    "publishedAt": "2026-08-07T10:39:23Z",
+    "lang": "en",
+    "source": {
+      "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+      "name": "CNBC TV18",
+      "url": "https://www.cnbctv18.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "e5cfb7ea241b0fb1c97b33a5643cfc71",
+    "title": "RBI's Rate Pause Sustains Steady Momentum in Residential Real Estate",
+    "description": "New Delhi [India], August 7: India's residential market has remained resilient over the last few quarters, supported by stable demand, better visibility on incomes and infrastructure-led growth across urban corridors. ANAROCK Research said the new launches saw a 7 per cent YoY rise, demonstrating a resilient end-user demand amidst global concerns. Sales in the top seven cities totalled about 90,715 units in Q2 2026.",
+    "content": "NewsVoir\nNew Delhi [India], August 7: India's residential market has remained resilient over the last few quarters, supported by stable demand, better visibility on incomes and infrastructure-led growth across urban corridors. ANAROCK Research said t... [5712 chars]",
+    "url": "https://www.tribuneindia.com/news/business/rbis-rate-pause-sustains-steady-momentum-in-residential-real-estate/",
+    "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY4MmY4ZTgwLTkyNDItMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+    "publishedAt": "2026-08-07T09:28:47Z",
+    "lang": "en",
+    "source": {
+      "id": "c5725557f39c24c8b029ee39900a8406",
+      "name": "The Tribune",
+      "url": "https://www.tribuneindia.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "8b0bd411d6db63169c2d0862385196df",
+    "title": "RBI's Rate Pause Sustains Steady Momentum in Residential Real Estate",
+    "description": "New Delhi [India], August 7: India's residential market has remained resilient over the last few quarters, supported by stable demand, better visibility on incomes and infrastructure-led growth across urban corridors. ANAROCK Research said the new launches saw a 7 per cent YoY rise, demonstrating a resilient end-user demand amidst global concerns. Sales in the top seven cities totalled about 90,715 units in Q2 2026.",
+    "content": "NewsVoir\nNew Delhi [India], August 7: India's residential market has remained resilient over the last few quarters, supported by stable demand, better visibility on incomes and infrastructure-led growth across urban corridors. ANAROCK Research said t... [2372 chars]",
+    "url": "https://www.aninews.in/news/business/rbis-rate-pause-sustains-steady-momentum-in-residential-real-estate20260807145704/",
+    "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260807092639-thumbnail-320x180-70.jpg",
+    "publishedAt": "2026-08-07T09:27:04Z",
+    "lang": "en",
+    "source": {
+      "id": "f282f77e41f55d72f00fefcaccc92954",
+      "name": "ANI (Asian News International)",
+      "url": "https://www.aninews.in",
+      "country": "in"
+    }
+  },
+  {
+    "id": "5a4bde36ea936bcbaa750fd210c596c1",
+    "title": "Will you have to pay for UPI? Here's what Sitharaman and RBI Governor reveal",
+    "description": "Finance Minister Nirmala Sitharaman's clarification comes amid growing debate over the government's proposal to allow a Merchant Discount Rate (MDR) on certain UPI transactions above Rs 2,000 in the future. She has, however, maintained that customers will not be charged.",
+    "content": "For millions of Indians, UPI has become the easiest way to pay for everything from groceries to cab rides. So, when reports emerged that the government could allow a Merchant Discount Rate (MDR) on UPI transactions in the future, many users were left... [4541 chars]",
+    "url": "https://www.indiatoday.in/business/story/will-you-have-to-pay-for-upi-heres-what-sitharaman-and-rbi-governor-reveal-2965627-2026-08-07",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/upi-payments-070146121-16x9_0.png?VersionId=uE4dbICHlC7yMl3MaLHuzWmFj.JFa9G1",
+    "publishedAt": "2026-08-07T07:22:56Z",
+    "lang": "en",
+    "source": {
+      "id": "c73686fdf0e30639d57eddaf7a77236e",
+      "name": "India Today",
+      "url": "https://www.indiatoday.in",
+      "country": "in"
+    }
+  },
+  {
+    "id": "796af409fd25785d488a45fdc2658e5e",
+    "title": "month TBLR to 5.25%, raises G",
+    "description": "UCO Bank revised its TBLR and G-Sec linked benchmark rates effective August 7, 2026. The ALCO cut the 3-month TBLR to 5.25% and the 12-month TBLR to 5.65%, while raising the 1-year UCO G-Sec Rate to 5.80% and the 10-year G-Sec Rate YTM to 6.96%. MCLR, Repo Linked Rates, Base Rate, and BPLR remained unchanged.",
+    "content": "UCO Bank has revised its Treasury Bill Linked Rate (TBLR) and Government Security (G-Sec) linked benchmark rates, effective August 7, 2026. The Asset Liability Management Committee (ALCO) reduced the 3-month TBLR by 5 basis points to 5.25% and the 12... [8738 chars]",
+    "url": "https://scanx.trade/stock-market-news/companies/uco-bank-cuts-3-month-tblr-to-5-25-raises-g-sec-rates/47630225",
+    "image": "http://news-images.dhan.co/uco-bank-cuts-3-month-tblr-to-5-25-raises-g-sec-rates.jpg",
+    "publishedAt": "2026-08-07T06:37:18Z",
+    "lang": "en",
+    "source": {
+      "id": "f746366686e467440a63dd26dbb72053",
+      "name": "scanx.trade",
+      "url": "https://scanx.trade",
+      "country": "in"
+    }
+  },
+  {
+    "id": "0d03265d301618f116ac587ee36dedf1",
+    "title": "RBI makes the right move on NBFC rate framework",
+    "description": "The pricing flexibility is vital for NBFCs to serve the unbanked segment of customers",
+    "content": "The Reserve Bank of India’s move to harmonise the interest rate framework on advances across all regulated entities — announced by Governor Sanjay Malhotra on August 5 — is a welcome step towards transparency and consumer protection.\nNotably, the Gov... [3014 chars]",
+    "url": "https://www.thehindubusinessline.com/opinion/rbi-makes-the-right-move-on-nbfc-rate-framework/article71314528.ece",
+    "image": "https://bl-i.thgim.com/public/incoming/h9x8wz/article71314550.ece/alternates/LANDSCAPE_1200/PO30_Growth.jpg",
+    "publishedAt": "2026-08-07T01:01:00Z",
+    "lang": "en",
+    "source": {
+      "id": "680f00482cbf9f314921fefd917871d9",
+      "name": "The Hindu Business Line",
+      "url": "https://www.thehindubusinessline.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "c0b6a8e66fdeb2a45948f7c849ee6b6b",
+    "title": "Banks tone down rate-hike bets as RBI sounds dovish on prices",
+    "description": "Some banks now anticipate fewer policy rate increases from the Reserve Bank of India. Yes Bank and State Bank of India have revised their earlier rate hike forecasts. MUFG Bank has also pushed back its expected policy rate hike timing. Other banks maintain their forecasts for cumulative rate increases this fiscal year. Inflation projections remain sensitive to future crude oil price movements.",
+    "content": "Synopsis\nSome banks now anticipate fewer policy rate increases from the Reserve Bank of India. Yes Bank and State Bank of India have revised their earlier rate hike forecasts. MUFG Bank has also pushed back its expected policy rate hike timing. Other... [4502 chars]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/banks-tone-down-rate-hike-bets-as-rbi-sounds-dovish-on-prices/articleshow/133018263.cms",
+    "image": "https://img.etimg.com/thumb/msid-133018270,width-1200,height-630,imgsize-54980,overlay-etmarkets/articleshow.jpg",
+    "publishedAt": "2026-08-07T00:35:00Z",
+    "lang": "en",
+    "source": {
+      "id": "5464668c1f0466950a0b2fab5249ec6c",
+      "name": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "f0adb805e2001c19bb91409e79fc0c12",
+    "title": "fdgffhn IPO announced: Check Price Band, Timeline & Key Details",
+    "description": "fdgffhn has filed its DRHP with SEBI on 07-Aug-2026 for its proposed IPO. Key details including issue size, price band, and financial highlights are currently not available in the draft document. Investors should await the final RHP for comprehensive data on valuation, risks, and offer structure.",
+    "content": "fdgffhn has officially filed its Draft Red Herring Prospectus (DRHP) with the Securities and Exchange Board of India (SEBI), marking a significant milestone in its journey towards going public. The document, published on 07-Aug-2026, outlines the com... [5987 chars]",
+    "url": "https://scanx.trade/stock-market-news/ipo/fdgffhn-ipo-announced-check-price-band-timeline-key-details/47652964",
+    "image": "http://news-images.dhan.co/fdgffhn-ipo-announced-check-price-band-timeline-key-details.jpg",
+    "publishedAt": "2026-08-07T12:56:14Z",
+    "lang": "en",
+    "source": {
+      "id": "f746366686e467440a63dd26dbb72053",
+      "name": "scanx.trade",
+      "url": "https://scanx.trade",
+      "country": "in"
+    }
+  },
+  {
+    "id": "7a4c26ee4f885c20126e4d91410b600c",
+    "title": "Garuda Aerospace, Naini Papers, Adroit Industries receive SEBI approval to launch IPOs",
+    "description": "Upcoming IPOs | Chennai-based drone technology company Garuda Aerospace is reportedly looking to raise around Rs 1,000 crore through its IPO, comprising a fresh issue of shares worth Rs 750 crore and an offer-for-sale (OFS) worth Rs 250 crore.",
+    "content": "Liked this AI Summary?\nJoin our AI Workshop\nGaruda Aerospace, Naini Papers, and Adroit Industries India have received approval from the Securities and Exchange Board of India (SEBI) to go ahead with their fund-raising plans via initial public offerin... [2540 chars]",
+    "url": "https://www.moneycontrol.com/news/business/ipo/garuda-aerospace-naini-papers-adroit-industries-receive-sebi-approval-to-launch-ipos-13998241.html",
+    "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260710041952_Kusumgar-IPO-Day-3.png",
+    "publishedAt": "2026-08-07T12:24:23Z",
     "lang": "en",
     "source": {
       "id": "fd3677545b80d5db7541de8e111d27ba",
@@ -144,141 +352,29 @@
     }
   },
   {
-    "id": "675cf730c3d8d68429047c4d315e1cee",
-    "title": "Stock market today: Nifty ends flat as defence stocks rally and Sensex-Nifty divergence persists",
-    "description": "Stock market today: Nifty ends flat, Sensex outperforms, defence stocks rally 3%, gold jumps, rupee weakens and RBI proposal stays in focus.",
-    "content": "Markets ended Thursday’s session on a flat note, with the headline indices masking a sharper story beneath the surface, a nearly 3 per cent surge in defence stocks and a four-session-old structural quirk that is cleaving the Sensex and Nifty apart at... [3737 chars]",
-    "url": "https://www.thehindubusinessline.com/markets/stock-markets/bulls-hold-ground-as-d-street-stays-cautious-defence-stocks-fire-up/article71313625.ece",
-    "image": "https://bl-i.thgim.com/public/incoming/8j2vbs/article71308050.ece/alternates/LANDSCAPE_1200/IMG_BSE_Building-new1__3_2_1_NEGBLQO4.jpg",
-    "publishedAt": "2026-08-06T13:24:37Z",
+    "id": "99abc74d8f543f4a2991e26b4f6e0b3e",
+    "title": "Amit Shah to Visit Tamil Nadu, Puducherry on Aug 8-9",
+    "description": "During his visit, he will offer prayers at prominent temples and attend official and public events",
+    "content": "New Delhi: Union Home Minister Amit Shah will be on a two-day visit to Tamil Nadu and Puducherry starting August 8, officials said on Friday. During his visit, he will offer prayers at prominent temples and attend official and public events.\nOn Satur... [481 chars]",
+    "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/amit-shah-to-visit-tamil-nadu-puducherry-on-aug-8-9-1977402",
+    "image": "https://www.deccanchronicle.com/h-upload/2025/08/29/1971187-amit-shah.jpg",
+    "publishedAt": "2026-08-07T12:19:00Z",
     "lang": "en",
     "source": {
-      "id": "680f00482cbf9f314921fefd917871d9",
-      "name": "The Hindu Business Line",
-      "url": "https://www.thehindubusinessline.com",
+      "id": "214d496d625fc657723cf4da80cff8ce",
+      "name": "Deccan Chronicle",
+      "url": "https://www.deccanchronicle.com",
       "country": "in"
     }
   },
   {
-    "id": "965338c5a3918c61bbe8a513e8eaf12e",
-    "title": "$30-$50 bn could have come on Bloomberg index inclusion: Canara Bank MD",
-    "description": "The delay in including government bonds in the Bloomberg index has delayed $30-$50 billion inflows despite tax benefits. RBI's steady repo rate and lower crude prices support bond yields and credit growth.",
-    "content": "The delay in inclusion is seen as a setback as the government scrapped the withholding tax and capital gains tax on overseas bond investors to attract inflows.\n“Deferment in inclusion in the Bloomberg index has been a little unexpected as India met m... [1544 chars]",
-    "url": "https://www.financialexpress.com/business/banking-finance-30-50-bn-could-have-come-on-bloomberg-index-inclusion-canara-bank-md-4312378/",
-    "image": "https://images.financialexpressdigital.com/2026/08/ssssssss.jpg",
-    "publishedAt": "2026-08-06T16:00:19Z",
-    "lang": "en",
-    "source": {
-      "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-      "name": "The Financial Express",
-      "url": "https://www.financialexpress.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "161667c6d4281d6a5ed8d2daede1f06d",
-    "title": "Reserve Bank Of India’s Repo Rate Seems To Be A Substitution",
-    "description": "The RBI",
-    "content": "On the surface, the Reserve Bank of India's unanimous decision to hold the repo rate at 5.25 per cent looks like an act of patience. It is closer to a substitution. One must realise that the RBI's mandate is to control inflation, not the exchange rat... [2617 chars]",
-    "url": "https://www.freepressjournal.in/analysis/reserve-bank-of-indias-repo-rate-seems-to-be-a-substitution",
-    "image": "https://media.assettype.com/freepressjournal/2026-08-06/e2yangdw/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-08-06T211849.916.jpg",
-    "publishedAt": "2026-08-06T15:49:13Z",
-    "lang": "en",
-    "source": {
-      "id": "7eeaf9a839918543cc708f2d331c3be4",
-      "name": "Free Press Journal",
-      "url": "https://www.freepressjournal.in",
-      "country": "in"
-    }
-  },
-  {
-    "id": "7f5d8f9e4b885febe37df8919583940a",
-    "title": "Unchanged repo rate brings cheer to housing sector",
-    "description": "RBI keeps repo rate unchanged at 5.25%; Odisha realtors and homebuyers say stable EMIs boost housing demand and offer certainty amid global uncertainties.",
-    "content": "A real estate project in Bhubaneswar\nBhubaneswar: Realtors and homebuyers in Odisha welcomed the Reserve Bank of India’s decision to keep the repo rate unchanged at 5.25%. They say the move will provide stability to the housing sector and help sustai... [2698 chars]",
-    "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/unchanged-repo-rate-brings-cheer-to-housing-sector/articleshow/133005059.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133005056,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-06T12:40:00Z",
-    "lang": "en",
-    "source": {
-      "id": "9a9a0fb79c70bbf499d39baca94921ae",
-      "name": "Times of India",
-      "url": "https://timesofindia.indiatimes.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "92912a8eea3c6668430d4e42ca6a7f02",
-    "title": "Rate hike cycle to begin from December, Morgan Stanley sees repo rate at 6%",
-    "description": "The Reserve Bank of India may start raising interest rates from December 2026 amid persistent inflation above 5%, with strong economic growth and capital inflows supporting liquidity and the rupee.",
-    "content": "“We bring forward our expected rate hike cycle to December 2026 (from April 2027 previously), reflecting firmer inflation and growth trends. We expect the RBI to deliver a cumulative 75 bp rate hike cycle and peg the terminal rate at 6%,” Morgan Stan... [2843 chars]",
-    "url": "https://www.financialexpress.com/policy/economy/rate-hike-cycle-to-begin-from-december-morgan-stanley-sees-repo-rate-at-6nbsp/4312201/",
-    "image": "https://images.financialexpressdigital.com/2026/08/reporate.jpg",
-    "publishedAt": "2026-08-06T12:33:43Z",
-    "lang": "en",
-    "source": {
-      "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-      "name": "The Financial Express",
-      "url": "https://www.financialexpress.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "c8ee5033409595a1679858eff4bd4154",
-    "title": "RBI Proposes Changes To Loan Pricing Rules To Improve Transparency For Borrowers",
-    "description": "The central bank plans to harmonise interest rate practices across lenders, with draft guidelines expected to be released for public consultation",
-    "content": "The Reserve Bank of India (RBI) has proposed a review of the regulatory framework governing interest rates on loans across regulated entities. The move aims to standardise lending practices and create a more uniform framework for loan pricing.\nAfter ... [2584 chars]",
-    "url": "https://www.outlookmoney.com/banking/rbi-proposes-changes-to-loan-pricing-rules-to-improve-transparency-for-borrowers",
-    "image": "https://media.assettype.com/outlookmoney/2026-05-21/786hrjrt/RBI.jpg?w=1200",
-    "publishedAt": "2026-08-06T09:25:07Z",
-    "lang": "en",
-    "source": {
-      "id": "bb30de23eec2cc576488c93582eaeb76",
-      "name": "Outlook Money",
-      "url": "https://www.outlookmoney.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "afa2d32f6247ba5918a9fc28d532dfd2",
-    "title": "Repo rate‑hike cycle likely to start early in Dec 26: Report",
-    "description": "Repo rate‑hike cycle likely to start early in Dec 26: Report - New Delhi, Aug 6 India’s central bank is likely to begin raising rates in December 2026 rather than ... Get Latest News on Business only on lokmattimes.com",
-    "content": "New Delhi, Aug 6 India’s central bank is likely to begin raising rates in December 2026 rather than previous expectations of April 2027 and deliver a cumulative 75 basis points of hikes to peg the terminal rate at 6 per cent, a report said on Thursda... [1984 chars]",
-    "url": "https://www.lokmattimes.com/business/repo-rate-hike-cycle-likely-to-start-early-in-dec-26-report/",
-    "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202608063893827_202608.jpg",
-    "publishedAt": "2026-08-06T08:58:02Z",
-    "lang": "en",
-    "source": {
-      "id": "f2ddccedc9e60d844e7a1045928cad48",
-      "name": "Lokmat Times",
-      "url": "https://www.lokmattimes.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "d0bb3cae30ca56e13db2ab39ddf0310d",
-    "title": "ICICI Bank Sees RBI Rate Hikes From December 2026 If Crude Prices Stay High",
-    "description": "ICICI Bank expects the RBI could begin a 50-basis-point rate hike cycle from December 2026 if crude oil prices remain elevated, while a softer oil outlook may delay action until April 2027. The bank said strong domestic growth, firm demand and rising core inflation could eventually prompt monetary tightening",
-    "content": "ICICI Bank expects the Reserve Bank of India (RBI) to begin a cumulative 50-basis-point rate hike cycle from December 2026 if crude oil prices remain elevated, according to a report cited by ANI.\nHowever, if oil prices moderate, the tightening cycle ... [2056 chars]",
-    "url": "https://www.freepressjournal.in/business/icici-bank-sees-rbi-rate-hikes-from-december-2026-if-crude-prices-stay-high",
-    "image": "https://media.assettype.com/freepressjournal/2025-06-10/6ml641j2/RBI-RBI-RBI-RBI.jpg",
-    "publishedAt": "2026-08-06T07:12:11Z",
-    "lang": "en",
-    "source": {
-      "id": "7eeaf9a839918543cc708f2d331c3be4",
-      "name": "Free Press Journal",
-      "url": "https://www.freepressjournal.in",
-      "country": "in"
-    }
-  },
-  {
-    "id": "646e637f2a334de4fddecf2b761a75eb",
-    "title": "When is your home loan EMI increasing? RBI rate hike calls pushed back after dovish pause",
-    "description": "Economists now anticipate the Reserve Bank of India will raise rates in December or later. This shift occurs as core inflation remains low, contrary to earlier expectations. The central bank maintained its current rates and lowered inflation forecasts for this fiscal year. Overnight indexed swap rates also signal fewer rate hikes over the next twelve months. India's monetary policy stance differs from other Asian economies responding to oil price spikes.",
-    "content": "Synopsis\nEconomists now anticipate the Reserve Bank of India will raise rates in December or later. This shift occurs as core inflation remains low, contrary to earlier expectations. The central bank maintained its current rates and lowered inflation... [3245 chars]",
-    "url": "https://economictimes.indiatimes.com/news/economy/policy/when-is-your-home-loan-emi-increasing-rbi-rate-hike-calls-pushed-back-after-dovish-pause/articleshow/132987769.cms",
-    "image": "https://img.etimg.com/thumb/msid-132988032,width-1200,height-630,imgsize-144660,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-06T07:12:00Z",
+    "id": "bcd9ca38c82ffc072083abbe034e623e",
+    "title": "Behari Lal Engineering IPO price band set at Rs 271-285, issue opens on August 12",
+    "description": "Behari Lal Engineering will launch its IPO on August 12 with a price band of Rs 271–285 per share, aiming to raise over Rs 301 crore through a fresh issue and an offer for sale. The company plans to use the proceeds to expand manufacturing capacity, install rooftop solar systems, repay debt, and support general corporate purposes.",
+    "content": "Synopsis\nBehari Lal Engineering will launch its IPO on August 12 with a price band of Rs 271–285 per share, aiming to raise over Rs 301 crore through a fresh issue and an offer for sale. The company plans to use the proceeds to expand manufacturing c... [5454 chars]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/behari-lal-engineering-ipo-price-band-set-at-rs-271-285-issue-opens-on-august-12/articleshow/133026909.cms",
+    "image": "https://img.etimg.com/thumb/msid-133027102,width-1200,height-630,imgsize-351146,overlay-etmarkets/articleshow.jpg",
+    "publishedAt": "2026-08-07T07:37:00Z",
     "lang": "en",
     "source": {
       "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -288,34 +384,66 @@
     }
   },
   {
-    "id": "88bfabc0a3910a4ed2014f38affa53ce",
-    "title": "The RBI is emerging as an Asian rate outlier. Five charts show why",
-    "description": "Reserve Bank of India Governor Sanjay Malhotra stressed a data-dependent approach after policymakers kept the benchmark rate unchanged at 5.25% on Wednesday.",
-    "content": "India’s central bank is emerging as one of Asia’s monetary policy holdouts, confident the latest oil shock won’t derail economic growth or fuel the kind of persistent inflation that would warrant higher interest rates.\nReserve Bank of India Governor ... [3974 chars]",
-    "url": "https://www.hindustantimes.com/ht-explainers/reserve-bank-of-india-rbi-monetary-policy-rate-mpc-asian-banks-outlier-inflation-iran-us-war-oil-trade-in-five-charts-101785987119178.html",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/08/06/1600x900/logo/INDIA-ECONOMY-RATES-0_1780558337828_1780558350086_7c5b2094-b01f-493f-aeec-54f7960eb966_1785988220845_f0ced48a-7fdf-429a-9a88-9244b1fcac64.JPG",
-    "publishedAt": "2026-08-06T06:43:01Z",
+    "id": "c2f19357f8292d5ef55574cd0567df9b",
+    "title": "Cr IPO To Open On Aug 12; Price Band Fixed At ₹271",
+    "description": "The offering comprises a fresh issue of equity shares worth up to ₹93 crore and an Offer for Sale (OFS) of up to 73.20 lakh equity shares by existing shareholders.",
+    "content": "Engineering castings and alloy steel products manufacturer Behari Lal Engineering on Friday fixed a price band of ₹271-285 per share for its ₹302-crore initial public offering (IPO), which will open for subscription on August 12.\nThe three-day public... [1418 chars]",
+    "url": "https://www.outlookbusiness.com/markets/behari-lal-engineerings-302-cr-ipo-to-open-on-aug-12-price-band-fixed-at-271-285share",
+    "image": "https://media.assettype.com/outlookbusiness/2026-08-07/6kq5ioqc/behari-lal-engineering-limited?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+    "publishedAt": "2026-08-07T07:17:48Z",
     "lang": "en",
     "source": {
-      "id": "21468bec836de1ebb209ff6f78fbfe3e",
-      "name": "Hindustan Times",
-      "url": "https://www.hindustantimes.com",
+      "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+      "name": "Outlook Business",
+      "url": "https://www.outlookbusiness.com",
       "country": "in"
     }
   },
   {
-    "id": "19c3262220494bfdd858b721d24de2aa",
-    "title": "FMCG price hikes could rewrite India’s inflation story: Report",
-    "description": "Consumer goods companies' planned price hikes could pressure inflation despite the RBI's outlook. Elara Capital expects the Reserve Bank of India to maintain interest rates through 2026. A potential rate hike is possible in early 2027 if inflation pressures intensify. The central bank may overlook El Nino-led food inflation unless it becomes entrenched. Global central bank actions could influence the RBI's future policy decisions.",
-    "content": "Synopsis\nConsumer goods companies' planned price hikes could pressure inflation despite the RBI's outlook. Elara Capital expects the Reserve Bank of India to maintain interest rates through 2026. A potential rate hike is possible in early 2027 if inf... [3143 chars]",
-    "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/fmcg-price-hikes-could-rewrite-indias-inflation-story-report/articleshow/132983766.cms",
-    "image": "https://img.etimg.com/thumb/msid-132983968,width-1200,height-630,imgsize-184568,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-06T05:50:00Z",
+    "id": "5935c66a4236a10a72be35d20309c6c9",
+    "title": "Can LEAP India IPO deliver long-term growth for high risk investors?",
+    "description": "LEAP India is on a mission to secure ₹480 crore through a new issuance aimed at settling its debts. Additionally, the company plans to garner ₹2,000 crore via an offer for sale. After acquiring CHEP India, LEAP India has significantly enhanced its asset-pooling network, resulting in a remarkable 41.4% revenue increase year-on-year and a net profit surge of 29.5%. This IPO might attract high-risk investors looking for long-term gains.",
+    "content": "Synopsis\nLEAP India is on a mission to secure ₹480 crore through a new issuance aimed at settling its debts. Additionally, the company plans to garner ₹2,000 crore via an offer for sale. After acquiring CHEP India, LEAP India has significantly enhanc... [4726 chars]",
+    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-leap-india-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133018305.cms",
+    "image": "https://img.etimg.com/thumb/msid-133018345,width-1200,height-630,imgsize-39124,overlay-etmarkets/articleshow.jpg",
+    "publishedAt": "2026-08-07T00:43:00Z",
     "lang": "en",
     "source": {
       "id": "5464668c1f0466950a0b2fab5249ec6c",
       "name": "The Economic Times",
       "url": "https://economictimes.indiatimes.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "ae1e8bc3ba2fbb4e104362cd5b765a24",
+    "title": "Lords Mark Industries approves OFS",
+    "description": "Lords Mark Industries Limited’s Board approved a two-step MPS compliance plan involving an Offer for Sale by promoters and a Rights Issue for public shareholders. The company appointed Nuvama Wealth Management as its advisor and named CS Geeta Serwani as the new Secretarial Auditor for FY25-26.",
+    "content": "Lords Mark Industries Limited’s Board of Directors approved a two-step Minimum Public Shareholding (MPS) compliance scheme on August 6, 2026, comprising an Offer for Sale (OFS) by the Promoter Group and a Rights Issue open exclusively to public share... [8590 chars]",
+    "url": "https://scanx.trade/stock-market-news/companies/lords-mark-industries-to-review-mps-compliance-and-auditor-appointment/47238375",
+    "image": "http://news-images.dhan.co/lords-mark-industries-to-review-mps-compliance-and-auditor-appointment.jpg",
+    "publishedAt": "2026-08-06T18:56:38Z",
+    "lang": "en",
+    "source": {
+      "id": "f746366686e467440a63dd26dbb72053",
+      "name": "scanx.trade",
+      "url": "https://scanx.trade",
+      "country": "in"
+    }
+  },
+  {
+    "id": "ee754d293c4c24f42557181f7f264aec",
+    "title": "Milky Mist cuts public offer size after Temasek deal, IPO launch next week",
+    "description": "IPO of Milky Mist, founded by Sathishkumar T and Anitha S, is Rs 1,553 crore comprising fresh issue of Rs 1,428 crore and an offer for sale of up to Rs 125 cror",
+    "content": "Tamil Nadu-based premium dairy products brand Milky Mist Dairy Food and the Gurugram-based logistics frim Shiprocket are hitting the primary capital markets next week with a combiuned issue size of Rs 3,170.5 crore.\nBoth the issues are downsized from... [3494 chars]",
+    "url": "https://www.newindianexpress.com/business/2026/Aug/06/milky-mist-cuts-public-offer-size-after-temasek-deal-ipo-launch-next-week",
+    "image": "https://cf-images.assettype.com/newindianexpress%2F2025-02-05%2Fyo3oihh3%2FC_53_1_CH1214_3811621.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+    "publishedAt": "2026-08-06T17:53:05Z",
+    "lang": "en",
+    "source": {
+      "id": "448094ed3f9461bb87a99a218cdaecfe",
+      "name": "The New Indian Express",
+      "url": "https://www.newindianexpress.com",
       "country": "in"
     }
   },
@@ -352,13 +480,109 @@
     }
   },
   {
-    "id": "173467bade2e6de2d6f25151be216d88",
-    "title": "Bhopal Metro To Run Every 15 Minutes On Sundays, Services Extended Till 8:30 PM",
-    "description": "Bhopal Metro will now run every 15 minutes on Sundays and public holidays, with services extended till 8:30 pm. The move aims to reduce waiting time and improve evening travel. Working-day schedules remain unchanged. Passengers can also use digital ticketing and cashless payments, while MPMRCL continues to offer discounts on return, group tickets and e-wallet recharges.",
-    "content": "Bhopal (Madhya Pradesh): The Bhopal Metro will now run every 15 minutes on Sundays and public holidays, with services also being extended by one hour to make travel easier for passengers.\nAccording to the Madhya Pradesh Metro Rail Corporation Limited... [1442 chars]",
-    "url": "https://www.freepressjournal.in/bhopal/bhopal-metro-to-run-every-15-minutes-on-sundays-services-extended-till-830-pm",
-    "image": "https://media.assettype.com/freepressjournal/2026-08-06/kk951phx/BhopalMetro.png",
-    "publishedAt": "2026-08-06T13:13:10Z",
+    "id": "e4ae881f569c0c3d296295bc8845b8aa",
+    "title": "Gold vs Bitcoin: Which Could Outperform in August 2026?",
+    "description": "Investors are weighing Gold vs Bitcoin more closely this week as the traditional metal rebounds strongly while Bitcoin struggles to break above the $65,000 mark.  Gold started August on a strong note, with futures climbing above $4,300 on Friday after several days of gains, including a more than 4% jump in a single trading session.",
+    "content": "Investors are weighing Gold vs Bitcoin more closely this week as the traditional metal rebounds strongly while Bitcoin struggles to break above the $65,000 mark. Gold started August on a strong note, with futures climbing above $4,300 on Friday after... [3304 chars]",
+    "url": "https://coingape.com/trending/gold-vs-bitcoin-which-could-outperform-in-august-2026/",
+    "image": "https://coingape.com/wp-content/uploads/2026/08/Gold-vs-BTC-Why-Is-Bitcoin.jpeg",
+    "publishedAt": "2026-08-07T15:12:19Z",
+    "lang": "en",
+    "source": {
+      "id": "4ed63e86c0ccd22ea875486a3ec6aad4",
+      "name": "CoinGape",
+      "url": "https://coingape.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "b234fd26a42753816ee832ebfc295548",
+    "title": "WhiteBIT Introduces New Spot Trading Bots For UK Crypto Users",
+    "description": "WhiteBIT cryptocurrency exchange has introduced two new automated trading solutions for the UK. The platform launched its Spot Grid Bot and Martingale",
+    "content": "WhiteBIT cryptocurrency exchange has introduced two new automated trading solutions for the UK. The platform launched its Spot Grid Bot and Martingale (DCA) Bot to expand on the spot trading features.\nWhiteBIT Gains Major Breakthrough In UK\nThe new t... [2549 chars]",
+    "url": "https://coingape.com/whitebit-introduces-new-spot-trading-bots-for-uk-crypto-users/",
+    "image": "https://coingape.com/wp-content/uploads/2026/04/WhiteBIT-Secures-Georgia-Broker-License.webp",
+    "publishedAt": "2026-08-07T14:47:43Z",
+    "lang": "en",
+    "source": {
+      "id": "4ed63e86c0ccd22ea875486a3ec6aad4",
+      "name": "CoinGape",
+      "url": "https://coingape.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "63c7acd151f1080367bafc462a53cf5e",
+    "title": "Binance Research: Gen Z Investors are Starting Younger and Showing Greater Financial Discipline",
+    "description": "Mumbai (Maharashtra) [India], August 7: Binance Research, the market research arm of the world's largest cryptocurrency exchange, Binance, has recently published a new weekly market commentary titled 'Onboarding the Next Generation'. The report examines how Gen Z is becoming the dominant cohort on Binance's TradFi products, and what their behavior reveals about the next wave of global equity access from emerging markets.",
+    "content": "PRNewswire\nMumbai (Maharashtra) [India], August 7: Binance Research, the market research arm of the world's largest cryptocurrency exchange, Binance, has recently published a new weekly market commentary titled 'Onboarding the Next Generation'. The r... [3604 chars]",
+    "url": "https://www.tribuneindia.com/news/business/binance-research-gen-z-investors-are-starting-younger-and-showing-greater-financial-discipline/",
+    "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTliNTFhNGMwLTkyNjQtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+    "publishedAt": "2026-08-07T13:33:35Z",
+    "lang": "en",
+    "source": {
+      "id": "c5725557f39c24c8b029ee39900a8406",
+      "name": "The Tribune",
+      "url": "https://www.tribuneindia.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "0504b2895955f985fdaea3be4bdd8efd",
+    "title": "Binance Research: Gen Z Investors are Starting Younger and Showing Greater Financial Discipline",
+    "description": "Mumbai (Maharashtra) [India], August 7: Binance Research, the market research arm of the world's largest cryptocurrency exchange, Binance, has recently published a new weekly market commentary titled 'Onboarding the Next Generation'. The report examines how Gen Z is becoming the dominant cohort on Binance's TradFi products, and what their behavior reveals about the next wave of global equity access from emerging markets.",
+    "content": "PRNewswire\nMumbai (Maharashtra) [India], August 7: Binance Research, the market research arm of the world's largest cryptocurrency exchange, Binance, has recently published a new weekly market commentary titled 'Onboarding the Next Generation'. The r... [2087 chars]",
+    "url": "https://www.aninews.in/news/business/binance-research-gen-z-investors-are-starting-younger-and-showing-greater-financial-discipline20260807185941/",
+    "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260807132927-thumbnail-320x180-70.jpg",
+    "publishedAt": "2026-08-07T13:29:41Z",
+    "lang": "en",
+    "source": {
+      "id": "f282f77e41f55d72f00fefcaccc92954",
+      "name": "ANI (Asian News International)",
+      "url": "https://www.aninews.in",
+      "country": "in"
+    }
+  },
+  {
+    "id": "647f5ba8a49b11913a533053d4dc5395",
+    "title": "Bitcoin, Ethereum, and XRP Price Outlook After CLARITY Act Vote Pushed to September",
+    "description": "Bitcoin, Ethereum, and XRP price hold key support as the CLARITY Act vote moves to September, keeping the crypto market cautious.",
+    "content": "Bitcoin price traded above $64,400 while Ethereum remained above $1,900. XRP hovered near $1.05.\nCrypto markets remained cautious after the U.S. Senate postponed the CLARITY Act vote until September. The delay pours regulatory uncertainty in the digi... [3164 chars]",
+    "url": "https://coingape.com/markets/bitcoin-ethereum-and-xrp-price-outlook-after-clarity-act-vote-pushed-to-september/",
+    "image": "https://coingape.com/wp-content/uploads/2026/08/top_3_price_predictions_for_bitcoin__720.webp",
+    "publishedAt": "2026-08-07T13:22:10Z",
+    "lang": "en",
+    "source": {
+      "id": "4ed63e86c0ccd22ea875486a3ec6aad4",
+      "name": "CoinGape",
+      "url": "https://coingape.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "273fed56aadc24ad064ad10f22a5e1b8",
+    "title": "U.S. Jobs Report: Nonfarm Payrolls Fall by 23K, Bitcoin Rises",
+    "description": "The July U.S. jobs report shows that the nonfarm payrolls fell by 23,000 while unemployment rate fell to 4.1%, both below estimates.",
+    "content": "The U.S. jobs report has come in softer than expectations, with the U.S. economy losing 23,000 jobs last month. Bitcoin has climbed on the back of the macro data, which signals that the labor market is still showing signs of weakness.\nU.S. Jobs Repor... [1930 chars]",
+    "url": "https://coingape.com/u-s-jobs-report-nonfarm-payrolls-fall-by-23k-bitcoin-rises/",
+    "image": "https://coingape.com/wp-content/uploads/2026/07/Bitcoin-Rises-as-U.S.-Jobs-Data.webp",
+    "publishedAt": "2026-08-07T13:02:52Z",
+    "lang": "en",
+    "source": {
+      "id": "4ed63e86c0ccd22ea875486a3ec6aad4",
+      "name": "CoinGape",
+      "url": "https://coingape.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "9d7259783006a1cd9ca1f6e07a0d03ab",
+    "title": "Mumbai Cyber Fraud: 65-Year-Old Nagpur Businessman Duped Of ₹26 Lakh In Cryptocurrency Investment Scam, Case Registered",
+    "description": "A 65-year-old Nagpur businessman allegedly lost Rs 26 lakh in a cryptocurrency investment fraud after being introduced to the scheme by a childhood school friend during a train journey. He transferred the money through multiple UPI and bank transactions and approached Mumbai Cyber Police after being asked to pay an additional Rs 4 lakh for the promised payout.",
+    "content": "Mumbai, August 7, 2026: A 65-year-old man has fallen prey to a cryptocurrency investment fraud. This year, the city police have registered 12 cases of cryptocurrency-related fraud, out of which only two cases have been detected.\nAccording to the poli... [1564 chars]",
+    "url": "https://www.freepressjournal.in/mumbai/mumbai-cyber-fraud-65-year-old-nagpur-businessman-duped-of-26-lakh-in-cryptocurrency-investment-scam-case-registered",
+    "image": "https://media.assettype.com/freepressjournal/2026-08-07/myl1ixej/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-08-07T181741.647.jpg",
+    "publishedAt": "2026-08-07T12:48:12Z",
     "lang": "en",
     "source": {
       "id": "7eeaf9a839918543cc708f2d331c3be4",
@@ -368,45 +592,13 @@
     }
   },
   {
-    "id": "1314bfbebf4b2d7ec6c1202197d6f453",
-    "title": "Cr IPO To Open On Aug 11 – Outlook Business",
-    "description": "The IPO comprises a fresh issue of equity shares aggregating up to ₹1,428 crore and an Offer For Sale (OFS) of up to ₹125 crore, taking the total issue size to ₹1,553 crore.",
-    "content": "Dairy products maker Milky Mist Dairy Food Ltd on Thursday fixed a price band of ₹133-140 per share for its ₹1,553 crore Initial Public Offering (IPO), which will open for subscription on August 11.\nThe initial share sale will conclude on August 13, ... [1846 chars]",
-    "url": "https://www.outlookbusiness.com/markets/milky-mist-dairy-foods-1553-cr-ipo-to-open-on-aug-11",
-    "image": "https://media.assettype.com/outlookbusiness/2026-08-06/ymiv61fp/Screenshot-2026-08-05-155242.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-    "publishedAt": "2026-08-06T07:49:28Z",
-    "lang": "en",
-    "source": {
-      "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
-      "name": "Outlook Business",
-      "url": "https://www.outlookbusiness.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "3652472b1cd63ebbbeb7d9b0b2a6e4f2",
-    "title": "Molbio Diagnostics Rs 940 Crore IPO From Aug 10",
-    "description": "The Molbio Diagnostics public issue comprises a fresh issue of Rs 200 crore and an offer for sale of Rs 740 crore by existing shareholders.",
-    "content": "Mumbai: Goa based Molbio Diagnostics, a molecular diagnostics company announced Rs 940 crore initial public offering in the price band of Rs768 to Rs 807 per equity share of Rs 1 face value each. The public issue opens of Aug.10 and close on August 1... [590 chars]",
-    "url": "https://www.deccanchronicle.com/business/market/molbio-diagnostics-rs-940-crore-ipo-from-aug-10-1977025",
-    "image": "https://www.deccanchronicle.com/h-upload/2026/08/06/2073069-molbio-diagnostics-logo-startuptalky.jpg",
-    "publishedAt": "2026-08-06T07:02:13Z",
-    "lang": "en",
-    "source": {
-      "id": "214d496d625fc657723cf4da80cff8ce",
-      "name": "Deccan Chronicle",
-      "url": "https://www.deccanchronicle.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "2d267bed282b2e52f2aaa90441991599",
-    "title": "LIC shares fall after India’s largest OFS closes with oversubscription on both days",
-    "description": "The government raised Rs 31,552 crore through LICs record Offer for Sale (OFS), selling a 6.5% stake after exercising the greenshoe option. The issue was oversubscribed, driven by strong retail and institutional demand. The stake sale helped LIC achieve the 10% public shareholding norm ahead of Sebis May 2027 deadline, while shares declined over 1% after the offer.",
-    "content": "Synopsis\nThe government raised Rs 31,552 crore through LIC’s record Offer for Sale (OFS), selling a 6.5% stake after exercising the greenshoe option. The issue was oversubscribed, driven by strong retail and institutional demand. The stake sale helpe... [4206 chars]",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/lic-shares-fall-after-indias-largest-ofs-closes-with-oversubscription-on-both-days/articleshow/132984775.cms",
-    "image": "https://img.etimg.com/thumb/msid-132984775,width-1200,height-630,imgsize-74058,overlay-etmarkets/articleshow.jpg",
-    "publishedAt": "2026-08-06T06:07:00Z",
+    "id": "33c437f3e48f8837d40f0bbb0628bd38",
+    "title": "Trump could net big tax windfall in crypto bill divestiture plan: Reports",
+    "description": "A bipartisan proposal for cryptocurrency legislation could grant President Trump a tax advantage by allowing the deferral of capital gains taxes on his digital asset portfolio. This bill stipulates that the president must separate from crypto-related enterprises. Democrats emphasize ethical standards to secure their backing, while the Clarity Act seeks to clarify regulatory oversight of the cryptocurrency industry.",
+    "content": "(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategie... [807 chars]",
+    "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/trump-could-net-big-tax-windfall-in-crypto-bill-divestiture-plan-reports/articleshow/133032164.cms",
+    "image": "https://img.etimg.com/thumb/msid-133032178,width-1200,height-630,imgsize-63156,overlay-etmarkets/articleshow.jpg",
+    "publishedAt": "2026-08-07T11:10:00Z",
     "lang": "en",
     "source": {
       "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -416,93 +608,29 @@
     }
   },
   {
-    "id": "d05ec90cfbf36f91e6fd2c73167baa66",
-    "title": "Shiprocket targets ₹7,057 crore valuation in trimmed IPO",
-    "description": "Temasek-backed Shiprocket ‌has ⁠reduced the total offer ⁠size to ₹1,617 crore from ₹2342 previously planned; sets price band of ₹92-97 per share",
-    "content": "Shiprocket has set a price band of ₹92 to ​₹97 per share for ‌its downsized initial public offering that ​launches next week, a ⁠filing showed on Thursday.\nThe Temasek and Eternal backed e-commerce logistics services firm is seeking ‌a valuation of a... [892 chars]",
-    "url": "https://www.thehindubusinessline.com/markets/temasek-backed-shiprocket-targets-7057-crore-valuation-in-trimmed-ipo/article71312074.ece",
-    "image": "https://bl-i.thgim.com/public/incoming/xmbttb/article71312078.ece/alternates/LANDSCAPE_1200/IMG_BL22_MR_Shiprocket_2_1_LHEDFC4Q.jpg",
-    "publishedAt": "2026-08-06T04:35:45Z",
+    "id": "1dfa03946ecf04a505e117977edb3650",
+    "title": "Bitcoin price struggles below $65,000 as traders await fresh market cues",
+    "description": "Repeated rejections near $65,000 indicate continued selling pressure, while broader sentiment stayed cautious as markets awaited clearer geopolitical and macroeconomic signals.",
+    "content": "Liked this AI Summary?\nJoin our AI Workshop\nBitcoin price slipped near $64,358 in the early August 7 trade, down 0.26 percent over the last 24 hours and up 0.27 percent in a week.\nAccording to crypto analysts, BTC remained range-bound between $64,000... [1372 chars]",
+    "url": "https://www.moneycontrol.com/news/business/personal-finance/bitcoin-price-struggles-below-65-000-as-traders-await-fresh-market-cues-13997157.html",
+    "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260807025739_Bitcoin-price-on-Aug-7-representative-image.png",
+    "publishedAt": "2026-08-07T02:57:54Z",
     "lang": "en",
     "source": {
-      "id": "680f00482cbf9f314921fefd917871d9",
-      "name": "The Hindu Business Line",
-      "url": "https://www.thehindubusinessline.com",
+      "id": "fd3677545b80d5db7541de8e111d27ba",
+      "name": "Moneycontrol",
+      "url": "https://www.moneycontrol.com",
       "country": "in"
     }
   },
   {
-    "id": "1a1621743062970bff10a196b239de40",
-    "title": "Jharkhand JPSC Protest: Students Reject Govt's Closed-Door Talks Offer in Ranchi",
-    "description": "Protesting Jharkhand students at Ranchi's Jaipal Singh Munda Stadium have rejected the Hemant Soren government's proposal for closed-door talks over JPSC exam irregularities, demanding public negotiations.",
-    "content": "The agitation by Jharkhand students over alleged irregularities in state recruitment exams has completed 12 days. Hundreds of aspirants are staging an indefinite sit-in at the Jaipal Singh Munda Stadium in Ranchi.\nThe protests began after the 14th Jh... [1507 chars]",
-    "url": "https://www.outlookindia.com/national/jharkhand-jpsc-protest-students-reject-govts-closed-door-talks-offer-in-ranchi",
-    "image": "https://cf-images.assettype.com/outlookindia/2026-08-03/ny6rf95v/Protest-in-Ranchi-over-alleged-JPSC-JSSC-exam-irregularities-5.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-    "publishedAt": "2026-08-06T04:30:07Z",
-    "lang": "en",
-    "source": {
-      "id": "b76d069607ae6330d5f65a02c543a320",
-      "name": "Outlook India",
-      "url": "https://www.outlookindia.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "f64d0f51486dfafdce91559defbc9a89",
-    "title": "Juniper Green Energy shares list at 9% premium; market cap nears ₹13,800 crore",
-    "description": "Juniper Green Energy's ₹1,800-crore IPO, which was open for subscription from July 30 to August 3, was subscribed 7.97 times at close. The IPO was priced in the range of ₹214-225 per share and comprised entirely a fresh issue of equity shares, with no offer-for-sale (OFS) component.",
-    "content": "Juniper Green Energy's ₹1,800-crore IPO, which was open for subscription from July 30 to August 3, was subscribed 7.97 times at close. The IPO was priced in the range of ₹214-225 per share and comprised entirely a fresh issue of equity shares, with n... [2705 chars]",
-    "url": "https://www.cnbctv18.com/market/juniper-green-energy-share-price-ipo-listing-premium-market-cap-nears-rs-13800-crore-19962926.htm",
-    "image": "https://images.cnbctv18.com/uploads/2026/08/image-2026-08-ad017a314e77dfb7fbdcea4a81b72f08.jpg?im=FitAndFill,width=1200,height=675",
-    "publishedAt": "2026-08-06T04:19:09Z",
-    "lang": "en",
-    "source": {
-      "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-      "name": "CNBC TV18",
-      "url": "https://www.cnbctv18.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "fae825b44b05ef2c27d1e32736237b50",
-    "title": "It's a secret: LIC’s unusually fast $3.3 billion deal kept bankers in dark",
-    "description": "LIC OFS: The Indian government raised $3.3 billion by selling additional LIC shares in the country's biggest secondary stock offering after executing a tightly guarded stake sale. Officials kept the launch secret, accelerated the timeline, and expanded the offer following strong institutional demand. The sale lifts LIC's public shareholding to 10%, meeting SEBI's listing requirement well ahead of the 2027 deadline.",
-    "content": "Synopsis\nLIC OFS: The Indian government raised $3.3 billion by selling additional LIC shares in the country's biggest secondary stock offering after executing a tightly guarded stake sale. Officials kept the launch secret, accelerated the timeline, a... [3738 chars]",
-    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/lic-ofs-ita-secret-lics-unusually-fast-3-3-billion-deal-kept-bankers-in-dark-as-indian-government-stake-sale/articleshow/132979912.cms",
-    "image": "https://img.etimg.com/thumb/msid-132980176,width-1200,height-630,imgsize-199926,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-06T03:28:00Z",
-    "lang": "en",
-    "source": {
-      "id": "5464668c1f0466950a0b2fab5249ec6c",
-      "name": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "e1dce63b4dcd22956f5169c2cb819935",
-    "title": "Bitcoin price today: BTC, Ethereum firm as Hormuz talks continue; can Bitcoin rally in August?",
-    "description": "Bitcoin and Ethereum prices rise as Hormuz talks continue and weak US jobs data supports risk assets. Can Bitcoin overcome August weakness and rally?  | Business News",
-    "content": "Bitcoin and Ethereum prices opened higher on Thursday, August 6, as investors moved back toward riskier assets while negotiations linked to Iran and the Strait of Hormuz continued. A weaker-than-expected July jobs report from ADP also helped support ... [2961 chars]",
-    "url": "https://www.hindustantimes.com/business/bitcoin-price-today-btc-ethereum-firm-as-hormuz-talks-continue-can-bitcoin-rally-in-august-101786027999310.html",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/08/06/1600x900/logo/pexels-photo-7267598_1786028514759_1786028525237_c80d9287-7a1f-45cb-a145-30c5e532c9f8.jpeg",
-    "publishedAt": "2026-08-06T15:13:37Z",
-    "lang": "en",
-    "source": {
-      "id": "21468bec836de1ebb209ff6f78fbfe3e",
-      "name": "Hindustan Times",
-      "url": "https://www.hindustantimes.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "54bfc178fc81a014e8cde783f7de163b",
-    "title": "Bitcoin and XRP Price Prediction as CLARITY Act Reaches Crucial Senate Vote",
-    "description": "Bitcoin and XRP prices hold key support as traders await the crucial Senate CLARITY Act vote and watch ETF fund flows soon.",
-    "content": "Bitcoin and XRP Price movements remained cautious Thursday as traders awaited a crucial Senate vote on the CLARITY Act. Bitcoin price was trading above $64,400, and XRP price was around $1.05 and the selling pressure persisted.\nEthereum price remaine... [2268 chars]",
-    "url": "https://coingape.com/markets/bitcoin-and-xrp-price-prediction-as-clarity-act-reaches-crucial-senate-vote/",
-    "image": "https://coingape.com/wp-content/uploads/2026/08/XRP-BTC-Price.webp",
-    "publishedAt": "2026-08-06T14:09:55Z",
+    "id": "d25d1aa44d7e4c9032a53704ee2945ea",
+    "title": "Bitcoin Drops As US Initial Jobless Claims Decline Amid Fed Rate Hike Fears",
+    "description": "Bitcoin fell on Thursday as investors responded to new U.S. economic data and growing worries over the Federal Reserve's policy. Traders' interest rate",
+    "content": "Bitcoin fell on Thursday as investors responded to new U.S. economic data and growing worries over the Federal Reserve’s policy. Traders’ interest rate expectations may have weighed on the crypto market as it was weighed against the potential for Fed... [2083 chars]",
+    "url": "https://coingape.com/bitcoin-drops-as-us-initial-jobless-claims-decline-amid-fed-rate-hike-fears/",
+    "image": "https://coingape.com/wp-content/uploads/2026/07/Why-is-Bitcoin-Price-Down.webp",
+    "publishedAt": "2026-08-06T21:08:38Z",
     "lang": "en",
     "source": {
       "id": "4ed63e86c0ccd22ea875486a3ec6aad4",
@@ -512,130 +640,98 @@
     }
   },
   {
-    "id": "33333c478d6b4d99afeba41cfd6b2d66",
-    "title": "Iran & Oman Set to Issue Joint Statement on Temporary Hormuz Transit Corridor, Oil Price Relief?",
-    "description": "Iran and Oman agreed on coordinates for a Strait of Hormuz shipping corridor, easing oil risk. Here's why the deal could lift Bitcoin and risk assets.",
-    "content": "Iran and Oman have agreed on geographic coordinates for a temporary shipping corridor through the Strait of Hormuz, with a joint statement in its final stages of drafting.\nThe development marks the clearest progress yet toward reopening the strategic... [3307 chars]",
-    "url": "https://coingape.com/iran-oman-set-to-issue-joint-statement-on-temporary-hormuz-transit-corridor-oil-price-relief/",
-    "image": "https://coingape.com/wp-content/uploads/2026/08/qatar_says_us-iran_deal_draft_is_ready.webp",
-    "publishedAt": "2026-08-06T13:44:52Z",
+    "id": "c7f13320a39d315d525d515a2410e57c",
+    "title": "How Netflix's 'Operation Safed Sagar' boosted Indian economy",
+    "description": "Netflix's ambitious project, *Operation Safed Sagar*, contributed over Rs 215 crore to India's economy, including Rs 49 crore invested in cutting-edge VFX technology.",
+    "content": "In an interview with Anant Goenka, Executive Director of The Indian Express Group, at Express Adda, Netflix Co-CEO Ted Sarandos said that the production of Operation Safed Sagar had a massive economic impact.\n\"We worked with over 800 vendors across m... [691 chars]",
+    "url": "https://www.newsbytesapp.com/news/entertainment/netflix-boosts-indian-economy-with-operation-safed-sagar/story",
+    "image": "https://i.cdn.newsbytesapp.com/images/l230_35261786085246.jpg",
+    "publishedAt": "2026-08-07T07:46:11Z",
     "lang": "en",
     "source": {
-      "id": "4ed63e86c0ccd22ea875486a3ec6aad4",
-      "name": "CoinGape",
-      "url": "https://coingape.com",
+      "id": "eba2f6a49db29efc8343807ba675665f",
+      "name": "NewsBytes",
+      "url": "https://www.newsbytesapp.com",
       "country": "in"
     }
   },
   {
-    "id": "8f7d566cf2e3245504d5196b2a33800b",
-    "title": "Crypto Market Update August 6: Bitcoin Nears $65K as ETH, Pi Network Top Gains Despite CLARITY Act Uncertainty",
-    "description": "The crypto market is showing a mixed outlook today as Bitcoin price gains to $65K while Ethereum and Pi Network are topping gains.",
-    "content": "The crypto market shows a mixed outlook today, August 6, as Bitcoin (BTC) and Ethereum (ETH) gain by 0.6% and 1.85%, respectively, while all other top ten cryptos trade in the red. Pi Network (PI) is also outperforming the broader crypto market after... [4183 chars]",
-    "url": "https://coingape.com/markets/crypto-market-update-august-6-bitcoin-nears-65k-as-eth-pi-network-top-gains/",
-    "image": "https://coingape.com/wp-content/uploads/2026/07/Why-is-Crypto-Market-Up-Today.webp",
-    "publishedAt": "2026-08-06T12:30:19Z",
+    "id": "e98b2a39405b420c528c7351b76a7b29",
+    "title": "Netflix’s Operation Safed Sagar pumped Rs 215 cr into Indian economy; Rs 49 cr went to VFX",
+    "description": "Operation Safed Sagar chronicles the IAF's role in the Kargil War. Netflix Co-CEO Ted Sarandos breaks down the show's massive economic impact of Rs 215 crore.",
+    "content": "Ted Sarandos on Operation Safed Sagar’s Rs 215 cr economic impact\n“It’s a beautiful historic story and very inspiring. The special effects are off the charts. At the same time, in terms of our commitment to production, we ensured an economic impact o... [3470 chars]",
+    "url": "https://indianexpress.com/article/entertainment/web-series/netflix-operation-safed-sagar-pumped-rs-215-cr-into-indian-economy-rs-49-cr-vfx-10821777/",
+    "image": "https://images.indianexpress.com/2026/08/Netflixs-Operation-Safed-Sagar-pumped-Rs-215-cr-into-Indian-economy.jpg",
+    "publishedAt": "2026-08-07T05:36:45Z",
     "lang": "en",
     "source": {
-      "id": "4ed63e86c0ccd22ea875486a3ec6aad4",
-      "name": "CoinGape",
-      "url": "https://coingape.com",
+      "id": "6a3aad3dbb44ac873f72b594aaea22c4",
+      "name": "The Indian Express",
+      "url": "https://indianexpress.com",
       "country": "in"
     }
   },
   {
-    "id": "8fe10a786c1bc00f6092bad11c8de818",
-    "title": "Bitcoin trades near $64,000 as profit booking emerges, but bulls continue to hold control",
-    "description": "Bitcoin traded near $64,700 as buyers maintained control despite profit-booking at higher levels. While major altcoins saw mixed price action, market experts highlighted steady institutional demand, supported by continued net inflows into US spot Bitcoin ETFs, as BTC consolidates below its key resistance zone of $65,000.",
-    "content": "Bitcoin is trading near the $64,000 level, indicating that buyers remain in control despite some profit-taking at higher levels. The cryptocurrency was trading at $64,700, registering a growth of 1% in the past 24 hours.\nEthereum was up 1.91% in the ... [4534 chars]",
-    "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-64000-as-profit-booking-emerges-but-bulls-continue-to-hold-control/articleshow/132996736.cms",
-    "image": "https://img.etimg.com/thumb/msid-132996818,width-1200,height-630,imgsize-74080,overlay-etmarkets/articleshow.jpg",
-    "publishedAt": "2026-08-06T10:03:00Z",
+    "id": "d7fdef7ad52c3fd798499379b2e149db",
+    "title": "Exclusive: Chinese Business Visas Under Scrutiny? Indian Travellers Report Rejections, Economists Flag Trade Risks",
+    "description": "Exclusive: Chinese Business Visas Under Scrutiny? Indian Travellers Report Rejections, Economists Flag Trade Risks, Economy, Times Now",
+    "content": "Increased scrutiny and visa rejections are reportedly affecting sectors such as electronics and automobile manufacturing, where some firms depend on Chinese suppliers, factories and partners. Industry observers believe higher scrutiny and reported vi... [2293 chars]",
+    "url": "https://www.timesnownews.com/business-economy/economy/exclusive-chinese-business-visas-under-scrutiny-indian-travellers-report-rejections-economists-flag-trade-risks-article-155354959",
+    "image": "https://images.timesnownews.com/thumb/msid-155355275,thumbsize-2212179,width-1280,height-720,resizemode-75/155355275.jpg",
+    "publishedAt": "2026-08-07T05:07:46Z",
     "lang": "en",
     "source": {
-      "id": "5464668c1f0466950a0b2fab5249ec6c",
-      "name": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com",
+      "id": "d708b971b2f5b1049778dcf0e6f9ef3e",
+      "name": "Times Now",
+      "url": "https://www.timesnownews.com",
       "country": "in"
     }
   },
   {
-    "id": "d1664756265480d188a1ee812196f926",
-    "title": "BREAKING: Grayscale Raises XRP, Bitcoin & Solana Weightage in GDLC ETF, Trims ETH",
-    "description": "Grayscale CoinDesk Crypto 5 ETF (GDLC) raises XRP, Bitcoin and Solana allocation, cuts ETH weightage, and holds BNB weight amid rebalancing.",
-    "content": "Grayscale has completed CoinDesk Crypto 5 ETF’s (GDLC) quarterly rebalancing, increasing XRP, Solana (SOL), and Bitcoin (BTC) allocations. The crypto asset manager also announced weightings of Ethereum (ETH) and BNB in the large-cap digital assets fu... [2008 chars]",
-    "url": "https://coingape.com/grayscale-raises-xrp-bitcoin-solana-weightage-gdlc-etf-trims-eth/",
-    "image": "https://coingape.com/wp-content/uploads/2026/08/Grayscale-Raises-XRP-Bitcoin-Solana-Weightage-in-GDLC-ETF-Trims-ETH.webp",
-    "publishedAt": "2026-08-06T08:49:40Z",
+    "id": "4b90ea119304c4a40a720c0ac8a9a69e",
+    "title": "Netflix's Operation Safed Sagar boosts Indian economy by Rs 215 crore, benefits over 850 local businesses",
+    "description": "Netflix Co-CEO Ted Sarandos said that India today has the talent, the technical expertise and the production capabilities to create entertainment that stands confidently alongside the very best in the world.",
+    "content": "New Delhi:\nCelebrating Netflix's 10th anniversary in India, the company's Co-CEO Ted Sarandos has stated that 'Operation Safed Sagar,' Netflix's largest and most ambitious production in India to date, has contributed over Rs 215 crore to the Indian e... [2578 chars]",
+    "url": "https://www.indiatvnews.com/business/news/netflix-s-operation-safed-sagar-boosts-indian-economy-by-rs-215-crore-benefits-over-850-local-businesses-2026-08-07-1050627",
+    "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/08/safedsagar-1786074421.jpg",
+    "publishedAt": "2026-08-07T03:53:03Z",
     "lang": "en",
     "source": {
-      "id": "4ed63e86c0ccd22ea875486a3ec6aad4",
-      "name": "CoinGape",
-      "url": "https://coingape.com",
+      "id": "143b993b193f72147f3de29ebcfbf505",
+      "name": "India TV News",
+      "url": "https://www.indiatvnews.com",
       "country": "in"
     }
   },
   {
-    "id": "9467a0cf542985126a49e7e4eb98ab09",
-    "title": "Quote of the day inspired by Homer’s Odyssey: 'Men are so quick to blame the gods, they say that...' — and why the worst disasters are always self-inflicted",
-    "description": "Europe News: Consider an investor who ignores obvious warning signs, loses a fortune on risky cryptocurrency investments, and then blames the global financial syst.",
-    "content": "The Odyssey is an ancient Greek epic by Homer that follows the long and difficult journey of hero Odysseus as he struggles to return home after the Trojan War\nConsider an investor who ignores obvious warning signs, loses a fortune on risky cryptocurr... [5477 chars]",
-    "url": "https://timesofindia.indiatimes.com/world/europe/quote-of-the-day-inspired-by-homers-odyssey-men-are-so-quick-to-blame-the-gods-they-say-that-and-why-the-worst-disasters-are-always-self-inflicted/articleshow/132958928.cms",
-    "image": "https://static.toiimg.com/thumb/msid-132964682,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-05T18:59:00Z",
+    "id": "6c8fc7be51456a91683afd03be2f9547",
+    "title": "Centre's capex push boosted private sector confidence to take risk, invest: FM Sitharaman",
+    "description": "\"It's the public expenditure that we kept undertaking all these years, with a lot of confidence that the Indian economy will benefit from it, has actually helped the private sector come forward,\" Sitharaman said",
+    "content": "Finance Minister Nirmala Sitharaman on Thursday said the Centre's capital expenditure push since Covid has boosted the private sector's confidence in the Indian economy, encouraging them to take risks and invest.\nStating that all countries need to ha... [3020 chars]",
+    "url": "https://www.moneycontrol.com/news/business/centre-s-capex-push-boosted-private-sector-confidence-to-take-risk-invest-fm-sitharaman-13996964.html",
+    "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260201025814_Sitharaman-AFP-.jpg",
+    "publishedAt": "2026-08-06T17:25:43Z",
     "lang": "en",
     "source": {
-      "id": "9a9a0fb79c70bbf499d39baca94921ae",
-      "name": "Times of India",
-      "url": "https://timesofindia.indiatimes.com",
+      "id": "fd3677545b80d5db7541de8e111d27ba",
+      "name": "Moneycontrol",
+      "url": "https://www.moneycontrol.com",
       "country": "in"
     }
   },
   {
-    "id": "e2a565357c96e6dbfdf7c7b28711a91b",
-    "title": "Crypto Market Update August 5: Bitcoin Gains on Rising ETF Inflows as PUMP, HYPE Top Altcoin Gains",
-    "description": "The crypto market is up today due to easing geopolitical tensions that are fuelling a risk-on mood, with PUMP and HYPE leading altcoin gains.",
-    "content": "The crypto market is up today, August 5, as easing geopolitical tensions drive an increase in buying pressure. Bitcoin (BTC) is up by 0.60% to trade at $64,046 at the time of writing, while Pump Fun (PUMP) and Hyperliquid were the top gainers among a... [3655 chars]",
-    "url": "https://coingape.com/markets/crypto-market-update-august-5-bitcoin-rises-on-etf-inflows-as-pump-hype-top-altcoins/",
-    "image": "https://coingape.com/wp-content/uploads/2026/07/Crypto-Market-Update-Today-July-29.webp",
-    "publishedAt": "2026-08-05T12:30:50Z",
+    "id": "6726b4bdb7d5c712405a8413e4a365e3",
+    "title": "Centre's capex push boosted private sector confidence to take risk, invest: FM",
+    "description": "New Delhi, Aug 6 (PTI) Finance Minister Nirmala Sitharaman on Thursday said the Centre’s capital expenditure push since Covid has boosted the private sector’s confidence in the Indian economy, encouraging them to take risks and invest. Stating that all countries need to have public debt for managing their finances, Sitharaman said there should be a […]",
+    "content": "The FY27 Budget has increased capital expenditure to Rs 12.22 lakh crore, up substantially from Rs 3.39 lakh crore in FY20.\n“With all confidence, I can say that this approach — that when you borrow money, you borrow it for creating assets and spend i... [2193 chars]",
+    "url": "https://theprint.in/economy/centres-capex-push-boosted-private-sector-confidence-to-take-risk-invest-fm/3007739/",
+    "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+    "publishedAt": "2026-08-06T16:17:25Z",
     "lang": "en",
     "source": {
-      "id": "4ed63e86c0ccd22ea875486a3ec6aad4",
-      "name": "CoinGape",
-      "url": "https://coingape.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "4fbc3ae9d3f907b420e1bbf85a8970b3",
-    "title": "U.S. Pentagon Preps Nuclear Plan for China or Russia, Bitcoin’s Military Role in Focus",
-    "description": "Pentagon nuclear strategy targeting China and Russia adds a national-security premium to Bitcoin as the US military tests BTC as a live operational tool.",
-    "content": "The Pentagon nuclear strategy is being quietly rewritten. According to an exclusive NBC News report published August 5, 2026, Defense Department policy chief Elbridge Colby is drafting a classified framework that leans on shorter-range tactical nucle... [3101 chars]",
-    "url": "https://coingape.com/u-s-pentagon-preps-nuclear-plan-for-china-or-russia-bitcoins-military-role-in-focus/",
-    "image": "https://coingape.com/wp-content/uploads/2026/08/U.S.-Pentagon-Preps-Nuclear-Plan-for-China-or-Russia-1.webp",
-    "publishedAt": "2026-08-05T12:28:50Z",
-    "lang": "en",
-    "source": {
-      "id": "4ed63e86c0ccd22ea875486a3ec6aad4",
-      "name": "CoinGape",
-      "url": "https://coingape.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "796c04526934005a8fd660192ce9863e",
-    "title": "Strategy (MSTR) Linked Wallet Moves 1030 BTC After $105M Bitcoin Sale",
-    "description": "Wallet linked to Michael Saylor's Strategy transfers 1030 BTC after recent $105 million Bitcoin sale, MSTR stock under pressure.",
-    "content": "A wallet linked to Michael Saylor’s Strategy transferred another 1,030 Bitcoin, sparking speculation about selling among investors and within the crypto community. This comes following the company’s latest sale of 1,638 BTC worth $105 million, causin... [1772 chars]",
-    "url": "https://coingape.com/strategy-mstr-linked-wallet-moves-btc-after-bitcoin-sale/",
-    "image": "https://coingape.com/wp-content/uploads/2026/07/MSTR-Stock-Target-Cut-to-213.webp",
-    "publishedAt": "2026-08-05T10:41:55Z",
-    "lang": "en",
-    "source": {
-      "id": "4ed63e86c0ccd22ea875486a3ec6aad4",
-      "name": "CoinGape",
-      "url": "https://coingape.com",
+      "id": "34cc62608b4607dc3a776802caadb7bd",
+      "name": "ThePrint",
+      "url": "https://theprint.in",
       "country": "in"
     }
   },
@@ -661,7 +757,7 @@
     "description": "‘Operation Safed Sagar contributed over Rs 215 crores to Indian economy,’ says Netflix co-CEO Ted Sarandos. Bollywood News: Latest Bollywood News, Bollywood News Today, Bollywood Celebrity News, Breaking News, Celeb News, Celebrities News, Bollywood News Hindi, Hindi Bollywood News at Bollywood Hungama.com.",
     "content": "As Netflix celebrates a decade of operations in India, the streaming giant has revealed the economic impact of its biggest Indian production to date, Operation Safed Sagar. Speaking at the premiere of the series, Netflix Co-CEO Ted Sarandos announced... [3067 chars]",
     "url": "https://www.bollywoodhungama.com/news/bollywood/operation-safed-sagar-contributed-over-rs-215-crores-to-indian-economy-says-netflix-co-ceo-ted-sarandos/",
-    "image": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/08/Operation-Safed-Sagar.jpeg",
+    "image": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/08/Operation-Safed-Sagar.jpeg",
     "publishedAt": "2026-08-06T13:30:38Z",
     "lang": "en",
     "source": {
@@ -704,189 +800,13 @@
     }
   },
   {
-    "id": "a800e997ffc41e8ce5182bfbbc34eb2d",
-    "title": "RBI has a playbook for a stronger rupee",
-    "description": "Indian rupee, RBI, rupee depreciation, foreign investment, FCNR deposits, NRE deposits, RBI measures, government securities, foreign institutional investors, Indian economy, bond market, macroeconomic stability",
-    "content": "The exchange rate has been the most discussed macroeconomic variable in India amid the current global crisis. The lopsided dependence on crude (a key input) is the predominant cause for the rupee depreciating vis-à-vis the dollar. However, the recent... [1367 chars]",
-    "url": "https://indianexpress.com/article/opinion/columns/rbi-rupee-foreign-investment-reforms-10819794/",
-    "image": "https://images.indianexpress.com/2026/08/rbi_20260805181549.jpg",
-    "publishedAt": "2026-08-06T01:00:42Z",
-    "lang": "en",
-    "source": {
-      "id": "6a3aad3dbb44ac873f72b594aaea22c4",
-      "name": "The Indian Express",
-      "url": "https://indianexpress.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "9fa863f14cfd1c8b7814b9ee72318d2d",
-    "title": "The Amazing Story Behind Ravi Shastri’s Gold Audi – and How It Changed the Business of Indian Sport",
-    "description": "Long before IPL contracts and crore-a-match endorsements, a gold Audi rolling around the Melbourne Cricket Ground showed a closed economy what winning could buy",
-    "content": "People forget that part first. On March 10, 1985, Ravi Shastri, twenty-two years old, climbed into a metallic gold Audi 100 parked near the boundary of the Melbourne Cricket Ground, checked there was fuel in the tank, and turned the key anyway.\nHe ha... [9250 chars]",
-    "url": "https://www.financialexpress.com/sports/sports-insights/the-amazing-story-behind-ravi-shastris-gold-audi-and-how-it-changed-the-business-of-indian-sport/4311309/",
-    "image": "https://images.financialexpressdigital.com/2026/08/Ravi-Shastri-Golden-Car-1985-Sports-Insights.jpg",
-    "publishedAt": "2026-08-06T00:00:00Z",
-    "lang": "en",
-    "source": {
-      "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-      "name": "The Financial Express",
-      "url": "https://www.financialexpress.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "d3db9221e9c0fde784b0d58b4152c90b",
-    "title": "Labour reforms will help India move closer to $30 trillion economy goal by 2047",
-    "description": "Without these reforms, GDP is projected to reach only $21.91 trillion in 2046-47 under the the most optimistic scenario",
-    "content": "Liked this AI Summary?\nJoin our AI Workshop\nLabour reforms will help India move closer to its $30-trillion economy goal by 2047, with the country’s GDP growing to $27 trillion, according to a paper prepared for the NCAER India Policy Forum.\nWithout t... [3300 chars]",
-    "url": "https://www.moneycontrol.com/news/business/economy/labour-reforms-will-help-india-move-closer-to-30-trillion-economy-goal-by-2047-13995721.html",
-    "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260223071055_hsbc.jpg",
-    "publishedAt": "2026-08-05T22:30:52Z",
-    "lang": "en",
-    "source": {
-      "id": "fd3677545b80d5db7541de8e111d27ba",
-      "name": "Moneycontrol",
-      "url": "https://www.moneycontrol.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "d6500c4ed6de06a3abda93e8892f0dbf",
-    "title": "Why Chhattisgarh is investing Rs 500 crore in AI and what it means for startups, jobs and digital economy",
-    "description": "The AI Mission shows a shift among Indian states towards building indigenous AI ecosystems instead of relying solely on central initiatives.",
-    "content": "Announcing the decisions, Deputy Chief Minister Arun Sao said the five-year mission will align with the Centre’s IndiaAI Mission and position Chhattisgarh as a “responsive, innovation-driven and future-ready digital state.”\nThe AI Mission was among s... [4591 chars]",
-    "url": "https://www.financialexpress.com/policy/economy/why-chhattisgarh-is-investing-rs-500-crore-in-ai-and-what-it-means-for-startups-jobs-and-digital-economy/4311399/",
-    "image": "https://images.financialexpressdigital.com/2026/08/Chhattisgarh.jpg",
-    "publishedAt": "2026-08-05T16:29:45Z",
-    "lang": "en",
-    "source": {
-      "id": "63361c66f51ee0c82a5325ba1c7b8d06",
-      "name": "The Financial Express",
-      "url": "https://www.financialexpress.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "83dc19534566d184d66dc37be9a7f7b8",
-    "title": "Netflix launches India Storytelling Initiative, partners IICT, NFDC to train next generation of creators",
-    "description": "In a bold move to strengthen its ties with Indian creativity, Netflix launched its India Storytelling Initiative designed to cultivate fresh storytelling talent. This program focuses on equipping aspiring creators with vital skills through strategic partnerships with organizations like IICT and NFDC. The initiative reflects Netflix's commitment to enhancing India's cultural landscape and investing in the nation's burgeoning creative economy.",
-    "content": "Synopsis\nIn a bold move to strengthen its ties with Indian creativity, Netflix launched its India Storytelling Initiative designed to cultivate fresh storytelling talent. This program focuses on equipping aspiring creators with vital skills through s... [3178 chars]",
-    "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/netflix-launches-india-storytelling-initiative-partners-iict-nfdc-to-train-next-generation-of-creators/articleshow/132948635.cms",
-    "image": "https://img.etimg.com/thumb/msid-132948635,width-1200,height-630,imgsize-102922,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-05T16:04:00Z",
-    "lang": "en",
-    "source": {
-      "id": "5464668c1f0466950a0b2fab5249ec6c",
-      "name": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "d3cf1777a78a4efd31df1dff8959a851",
-    "title": "India bonds rally on 'dovish' RBI hold, lower oil prices",
-    "description": "Indian government bonds surged on Wednesday, with yields falling below important levels. The Reserve Bank of India decided to keep the repo rate steady, in line with anticipated market outcomes. A drop in oil prices helped ease inflation fears, supporting the economy. This favorable policy not only uplifted bond markets but also stimulated capital inflows, resulting in reduced overnight index swap rates.",
-    "content": "Synopsis\nIndian government bonds surged on Wednesday, with yields falling below important levels. The Reserve Bank of India decided to keep the repo rate steady, in line with anticipated market outcomes. A drop in oil prices helped ease inflation fea... [7744 chars]",
-    "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rally-on-dovish-rbi-hold-lower-oil-prices/articleshow/132927259.cms",
-    "image": "https://img.etimg.com/thumb/msid-132927499,width-1200,height-630,imgsize-125370,overlay-etmarkets/articleshow.jpg",
-    "publishedAt": "2026-08-05T12:31:00Z",
-    "lang": "en",
-    "source": {
-      "id": "5464668c1f0466950a0b2fab5249ec6c",
-      "name": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "48336b59c6b6bb8373e242b240a3f227",
-    "title": "Indian companies tap stock market for record ₹2.3 lakh crore despite global turmoil",
-    "description": "Indian companies raised a record ₹2.3 lakh crore through IPOs, FPOs and rights issues in FY26, with strong retail investor participation helping India remain the world's busiest IPO market despite global uncertainty.",
-    "content": "Indian companies raised a record ₹2.3 lakh crore through IPOs, FPOs and rights issues in FY26, with strong retail investor participation helping India remain the world's busiest IPO market despite global uncertainty.\nBy Srabastee Biswas\nIndia's prima... [3413 chars]",
-    "url": "https://www.cnbctv18.com/market/indias-public-equity-fundraising-hits-historic-%e2%82%b92-3-lakh-crore-up-11-7-in-fy26-sebi-annual-report-19963660.htm",
-    "image": "https://images.cnbctv18.com/uploads/2026/06/sebi-2026-06-58b4dbc092b619a208d91996a1277dd3.jpg?im=FitAndFill,width=1200,height=675",
-    "publishedAt": "2026-08-06T15:44:32Z",
-    "lang": "en",
-    "source": {
-      "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-      "name": "CNBC TV18",
-      "url": "https://www.cnbctv18.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "66fb6d739f60c2b4b1b58995b3c91a35",
-    "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
-    "description": "Indian markets found support from easing crude oil prices and the RBI's stable policy outlook despite range-bound trade. Analysts said Nifty holding above 24,600 keeps bullish momentum intact, with improving earnings expectations and stock-specific buying supporting broader market resilience.",
-    "content": "Synopsis\nIndian markets found support from easing crude oil prices and the RBI's stable policy outlook despite range-bound trade. Analysts said Nifty holding above 24,600 keeps bullish momentum intact, with improving earnings expectations and stock-s... [5813 chars]",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/133010188.cms",
-    "image": "https://img.etimg.com/thumb/msid-133010224,width-1200,height-630,imgsize-34964,overlay-etmarkets/articleshow.jpg",
-    "publishedAt": "2026-08-06T15:38:00Z",
-    "lang": "en",
-    "source": {
-      "id": "5464668c1f0466950a0b2fab5249ec6c",
-      "name": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "5893435e6038268880e1adea17c95083",
-    "title": "Market Trading Guide: Tata Technologies among 2 stock recommendations for Friday -",
-    "description": "Nifty remained range-bound yet technically strong, while analysts recommended Tata Technologies and AIIL as buy picks based on bullish breakouts and momentum. Market Trading Guide: Tata Technologies among 2 stock recommendations for Friday",
-    "content": "IRFC Share Price89.29-32.5%0.4(0.44%) Upside Suzlon Energy Share Price48.128.7%-0.05(-0.11%) Upside IREDA Share Price121.0249.1%0.32(0.27%) Upside Tata Motors PV Share Price345.355.7%-4.45(-1.28%) Upside YES Bank Share Price22.68-9.3%-0.29(-1.27%) Up... [2232 chars]",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-tata-technologies-among-2-stock-recommendations-for-friday/market-trading-guide-tata-technologies-among-2-stock-recommendations-for-fridaybr/slideshow/133010183.cms",
-    "image": "https://img.etimg.com/thumb/msid-133010183,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-    "publishedAt": "2026-08-06T15:36:00Z",
-    "lang": "en",
-    "source": {
-      "id": "5464668c1f0466950a0b2fab5249ec6c",
-      "name": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "d7767d1d69c000789374692a936c4fa3",
-    "title": "Market Trading Guide: Tata Technologies among 2 stock recommendations for Friday",
-    "description": "Nifty ended nearly flat after a range-bound session but stayed above key moving averages, preserving its bullish trend. Analysts recommended Tata Technologies and AIIL as buy ideas, citing breakout patterns, strong momentum, rising volumes and favourable technical indicators for further upside.",
-    "content": "Synopsis\nNifty ended nearly flat after a range-bound session but stayed above key moving averages, preserving its bullish trend. Analysts recommended Tata Technologies and AIIL as buy ideas, citing breakout patterns, strong momentum, rising volumes a... [7458 chars]",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-tata-technologies-among-2-stock-recommendations-for-friday/articleshow/133010149.cms",
-    "image": "https://img.etimg.com/thumb/msid-133010183,width-1200,height-630,imgsize-56096,overlay-etmarkets/articleshow.jpg",
-    "publishedAt": "2026-08-06T15:36:00Z",
-    "lang": "en",
-    "source": {
-      "id": "5464668c1f0466950a0b2fab5249ec6c",
-      "name": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "216a69eb281de5128f760ec6c43402a0",
-    "title": "Traders blink! India's stock investors choose Warren Buffett-style ownership in volatile FY26",
-    "description": "Indian investors favoured long-term stock ownership in FY26 as delivery ratios rose to around 30%, despite market volatility. Sebi said stronger domestic inflows, expanding demat accounts and reduced derivatives speculation reflected healthier participation and greater resilience amid foreign investor outflows.",
-    "content": "Synopsis\nIndian investors favoured long-term stock ownership in FY26 as delivery ratios rose to around 30%, despite market volatility. Sebi said stronger domestic inflows, expanding demat accounts and reduced derivatives speculation reflected healthi... [4680 chars]",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/traders-blink-indias-stock-investors-choose-warren-buffett-style-ownership-in-volatile-fy26/articleshow/133009625.cms",
-    "image": "https://img.etimg.com/thumb/msid-133009625,width-1200,height-630,imgsize-181694,overlay-etmarkets/articleshow.jpg",
-    "publishedAt": "2026-08-06T15:12:00Z",
-    "lang": "en",
-    "source": {
-      "id": "5464668c1f0466950a0b2fab5249ec6c",
-      "name": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "9209647aa55c0fd54c960fcec2f794db",
-    "title": "US stock market today: Wall Street mixed as earnings reports drive key indices",
-    "description": "India Business News: US stock market today: Wall Street stocks moved mixed during Thursday morning trading as investors reacted to the latest round of corporate earnings f.",
-    "content": "After beginning the week with strong gains that pushed major indexes to record levels, the market has settled over the past two sessions.\nUS stock market today: Wall Street stocks moved mixed during Thursday morning trading as investors reacted to th... [2523 chars]",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/us-stock-market-url-us-stock-market-today-august-06-2026-wall-street-down-jones-industrial-average-sp-500-nasdaq-composite-us-iran-war-crude-oil-prices/articleshow/133008708.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133008763,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-06T14:25:00Z",
+    "id": "1066f57d861fd77b1f41ff01c04e7efb",
+    "title": "US stock market today: Wall Street rallies as 23,000 job cuts boost hopes of softer Fed policy",
+    "description": "International Business News: US stock market today: Wall Street stocks traded higher on Friday morning, while Treasury yields declined after government data showed US employers un.",
+    "content": "The weaker-than-expected employment report strengthened expectations that the Federal Reserve could have more room before increasing interest rates to curb inflation.\nUS stock market today: Wall Street stocks traded higher on Friday morning, while Tr... [2612 chars]",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-url-us-stock-market-today-august-07-2026-wall-street-down-jones-industrial-average-sp-500-nasdaq-composite-us-iran-war-crude-oil-prices/articleshow/133036719.cms",
+    "image": "https://static.toiimg.com/thumb/msid-133036739,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-08-07T14:34:00Z",
     "lang": "en",
     "source": {
       "id": "9a9a0fb79c70bbf499d39baca94921ae",
@@ -896,66 +816,178 @@
     }
   },
   {
-    "id": "675cf730c3d8d68429047c4d315e1cee",
-    "title": "Stock market today: Nifty ends flat as defence stocks rally and Sensex-Nifty divergence persists",
-    "description": "Stock market today: Nifty ends flat, Sensex outperforms, defence stocks rally 3%, gold jumps, rupee weakens and RBI proposal stays in focus.",
-    "content": "Markets ended Thursday’s session on a flat note, with the headline indices masking a sharper story beneath the surface, a nearly 3 per cent surge in defence stocks and a four-session-old structural quirk that is cleaving the Sensex and Nifty apart at... [3737 chars]",
-    "url": "https://www.thehindubusinessline.com/markets/stock-markets/bulls-hold-ground-as-d-street-stays-cautious-defence-stocks-fire-up/article71313625.ece",
-    "image": "https://bl-i.thgim.com/public/incoming/8j2vbs/article71308050.ece/alternates/LANDSCAPE_1200/IMG_BSE_Building-new1__3_2_1_NEGBLQO4.jpg",
-    "publishedAt": "2026-08-06T13:24:37Z",
+    "id": "7c29600a43e72da8d215404d480b51e8",
+    "title": "South Korea's stock market crash: Why AI wasn't the real story",
+    "description": "South Korea’s market depends heavily on a few giant companies, especially Samsung Electronics and SK Hynix. They dominate the KOSPI, so when chip stocks fell, the whole market fell with them.",
+    "content": "What triggered the crash?\nThe immediate trigger was a fall in semiconductor and AI-related shares led by Samsung Electronics and SK Hynix. Investors who had driven these shares sharply higher during the AI boom began to believe they had become overva... [5063 chars]",
+    "url": "https://www.newindianexpress.com/explainers/2026/Aug/07/south-koreas-stock-market-crash-why-ai-wasnt-the-real-story",
+    "image": "https://cf-images.assettype.com/newindianexpress%2F2026-07-28%2Fvbl4sxoc%2FAP26209066341108.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+    "publishedAt": "2026-08-07T14:01:18Z",
     "lang": "en",
     "source": {
-      "id": "680f00482cbf9f314921fefd917871d9",
-      "name": "The Hindu Business Line",
-      "url": "https://www.thehindubusinessline.com",
+      "id": "448094ed3f9461bb87a99a218cdaecfe",
+      "name": "The New Indian Express",
+      "url": "https://www.newindianexpress.com",
       "country": "in"
     }
   },
   {
-    "id": "c0e515fb29bad125e2e95340d0293b48",
-    "title": "IPO Investing: Opportunities and Risks Every Investor Should Know",
-    "description": "New Delhi [India], August 6: Initial Public Offerings (IPOs) often generate significant excitement in the stock market. They provide investors with an opportunity to participate in a company's growth journey from the time it becomes publicly listed. For many retail investors, IPOs can seem like a gateway to potentially attractive returns, especially when well-known businesses enter the public markets.",
-    "content": "PNN\nNew Delhi [India], August 6: Initial Public Offerings (IPOs) often generate significant excitement in the stock market. They provide investors with an opportunity to participate in a company's growth journey from the time it becomes publicly list... [5549 chars]",
-    "url": "https://www.tribuneindia.com/news/business/ipo-investing-opportunities-and-risks-every-investor-should-know/",
-    "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWIyYjVhMDIwLTkxOTgtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-    "publishedAt": "2026-08-06T13:13:58Z",
+    "id": "2eee4d6ed5f48bcde78bf1f029275c8e",
+    "title": "₹71 to ₹820: Multibagger penny stock turns ₹1 lakh into ₹11.5 lakh in five years. Do you own?",
+    "description": "ICE Make Refrigeration's stock soared 3,096% over five years, significantly increasing investor wealth. With retail investors owning 24% of the firm, the growth underscores the potential of carefully chosen stocks in the Indian market.",
+    "content": "A Ksheerasagar\nKsheera Sagar has been working as a Market Research Analyst at LiveMint for the past four years, covering stocks, commodities, and broader financial markets. In this role, he closely tracks daily market movements, corporate earnings, s... [1180 chars]",
+    "url": "https://www.livemint.com/market/stock-market-news/rs-71-to-rs-820-multibagger-penny-stock-turns-rs-1-lakh-into-rs-11-5-lakh-in-five-years-do-you-own-11786106275728.html",
+    "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/gfd7eb6a4ff3b7722c26419631ebb2ff072e650093667ac8ce_1749522059479_1786107438562_28f3f65c-dc5d-4bda-96e7-12c9cb6fdef4.jpg",
+    "publishedAt": "2026-08-07T13:03:04Z",
     "lang": "en",
     "source": {
-      "id": "c5725557f39c24c8b029ee39900a8406",
-      "name": "The Tribune",
-      "url": "https://www.tribuneindia.com",
+      "id": "3bd4bd306c42647825fa42989624c036",
+      "name": "Livemint",
+      "url": "https://www.livemint.com",
       "country": "in"
     }
   },
   {
-    "id": "c5a4419d64ebcf523e05ed06142cb478",
-    "title": "IPO Investing: Opportunities and Risks Every Investor Should Know",
-    "description": "New Delhi [India], August 6: Initial Public Offerings (IPOs) often generate significant excitement in the stock market. They provide investors with an opportunity to participate in a company's growth journey from the time it becomes publicly listed. For many retail investors, IPOs can seem like a gateway to potentially attractive returns, especially when well-known businesses enter the public markets.",
-    "content": "PNN\nNew Delhi [India], August 6: Initial Public Offerings (IPOs) often generate significant excitement in the stock market. They provide investors with an opportunity to participate in a company's growth journey from the time it becomes publicly list... [2326 chars]",
-    "url": "https://www.aninews.in/news/business/ipo-investing-opportunities-and-risks-every-investor-should-know20260806183826/",
-    "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260806123109-thumbnail-320x180-70.jpg",
-    "publishedAt": "2026-08-06T13:08:26Z",
+    "id": "b36f1c15e5aa428014767ea41b2ed0f4",
+    "title": "Sebi streamlines market intermediaries inspection framework, cuts FY27 target to one-third",
+    "description": "Sebi is introducing joint inspections by stock exchanges and depositories, along with a notable reduction in its inspection target for FY27. This strategy intends to enhance oversight while facilitating operations for intermediaries. Moreover, the practice of conducting repetitive annual inspections on compliant entities will cease, shifting focus to alert mechanisms, complaints, and market intelligence for more effective monitoring.",
+    "content": "Synopsis\nSebi is introducing joint inspections by stock exchanges and depositories, along with a notable reduction in its inspection target for FY27. This strategy intends to enhance oversight while facilitating operations for intermediaries. Moreove... [4918 chars]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-streamlines-market-intermediaries-inspection-framework-cuts-fy27-target-to-one-third/articleshow/133034089.cms",
+    "image": "https://img.etimg.com/thumb/msid-133034130,width-1200,height-630,imgsize-1379405,overlay-etmarkets/articleshow.jpg",
+    "publishedAt": "2026-08-07T12:32:00Z",
     "lang": "en",
     "source": {
-      "id": "f282f77e41f55d72f00fefcaccc92954",
-      "name": "ANI (Asian News International)",
-      "url": "https://www.aninews.in",
+      "id": "5464668c1f0466950a0b2fab5249ec6c",
+      "name": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com",
       "country": "in"
     }
   },
   {
-    "id": "c788fa0d4657121597b3b57391e80f50",
-    "title": "Rupee falls 16 paise to close at 95.24 against US dollar",
-    "description": "Business News: Get the latest Business News, Live Share & Stock Market Updates, Top News from India and across world. Read Top Business News and updates on financial, economic and banking news on CNBCTV18.",
-    "content": "The rupee depreciated 16 paise to close at 95.24 (provisional) against the US dollar on Thursday, on slight gains in the US Dollar Index and a modest increase in US Treasury yields.\nBy CNBCTV18\nThe rupee depreciated 16 paise to close at 95.24 (provis... [2131 chars]",
-    "url": "https://www.cnbctv18.com/market/rupee-falls-16-paise-to-close-at-95-24-against-us-dollar-19963551.htm",
-    "image": "https://images.cnbctv18.com/uploads/2026/07/rupee-2026-07-cbe8e5e52b28a2a0e04578fa237861e8.jpg?im=FitAndFill,width=1200,height=675",
-    "publishedAt": "2026-08-06T13:05:22Z",
+    "id": "2ea179a3bd77912233ca5505b6253c83",
+    "title": "Live: US market futures climb after July jobs report; chip stocks rally - The Economic Times",
+    "description": "Dow Jones Today | US Stock Market Live: The main ⁠U.S. ⁠indexes were headed for strong weekly gains, with the S&P 500 and the Dow on track for their best week since April and the Nasdaq set for its biggest advance since May, if gains hold.",
+    "content": "The Federal Reserve’s limited forward guidance under new Chair Kevin Warsh has increased the importance of economic data and policymakers’ remarks. Traders now see nearly even odds of a September rate hike or no change, compared with a 63% probabilit... [432 chars]",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-peace-deal-crude-oil-fed-warsh-rate-hike-jobs-data-sandisk-cloudflare-atlassian-chip-stock-price-news-7th-august-2026/liveblog/133034022.cms",
+    "image": "https://economictimes.indiatimes.com/thumb/msid-133034022,width-1200,height-900,resizemode-4,imglength-1944867/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-peace-deal-crude-oil-fed-warsh-rate-hike-jobs-data-sandisk-cloudflare-atlassian-chip-stock-price-news-7th-august-2026.jpg",
+    "publishedAt": "2026-08-07T12:29:00Z",
     "lang": "en",
     "source": {
-      "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-      "name": "CNBC TV18",
-      "url": "https://www.cnbctv18.com",
+      "id": "5464668c1f0466950a0b2fab5249ec6c",
+      "name": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "d9cf6254a08e03cdd6c8e066e77cc2ca",
+    "title": "SEBI cuts inspection visits, adopts risk-based supervision for market intermediaries from FY27",
+    "description": "SEBI has overhauled its inspection framework for market intermediaries by reducing inspections to around one-third of the previous year's level, introducing joint inspections by stock exchanges and depositories, and prioritising high-risk entities under a risk-based supervisory approach.",
+    "content": "The Securities and Exchange Board of India (SEBI) has streamlined its inspection framework for market intermediaries, reducing the number of inspections planned for FY2026-27 to around one-third of the previous financial year's level while adopting a... [1470 chars]",
+    "url": "https://www.moneycontrol.com/news/business/markets/sebi-cuts-inspection-visits-adopts-risk-based-supervision-for-market-intermediaries-from-fy27-13998239.html",
+    "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260805041827_SEBI2.jpg",
+    "publishedAt": "2026-08-07T12:20:49Z",
+    "lang": "en",
+    "source": {
+      "id": "fd3677545b80d5db7541de8e111d27ba",
+      "name": "Moneycontrol",
+      "url": "https://www.moneycontrol.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "05a3ecf6784d083f41ca15c9de00e912",
+    "title": "SEBI Streamlines Market Intermediary Inspection Framework, Cuts FY27 Inspection Target To One-Third",
+    "description": "Sebi has streamlined inspections of market intermediaries by introducing joint inspections by stock exchanges and depositories and reducing its FY27 inspection target to about one-third of the previous year’s level. The revised framework adopts a risk-based approach, prioritises high-risk entities, and aims to reduce compliance burdens for brokers and other intermediaries.",
+    "content": "New Delhi, August 7, 2026: Markets regulator Sebi on Friday streamlined the inspection of market intermediaries by mandating joint inspections by stock exchanges and depositories and reducing its inspection target for FY27 to about one-third of the p... [2969 chars]",
+    "url": "https://www.freepressjournal.in/business/sebi-streamlines-market-intermediary-inspection-framework-cuts-fy27-inspection-target-to-one-third",
+    "image": "https://media.assettype.com/freepressjournal/2026-08-07/k03fqu8i/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-08-07T173937.467.jpg",
+    "publishedAt": "2026-08-07T12:09:57Z",
+    "lang": "en",
+    "source": {
+      "id": "7eeaf9a839918543cc708f2d331c3be4",
+      "name": "Free Press Journal",
+      "url": "https://www.freepressjournal.in",
+      "country": "in"
+    }
+  },
+  {
+    "id": "34dca4907d4cde238b608ef9dd09edd5",
+    "title": "Aurobindo Pharma among 8 stocks hitting 52-week highs; surge up to 20% in a month",
+    "description": "On Friday, the benchmark Sensex slipped 455 points to settle at 78,499. Despite the broader market weakness, eight stocks from the BSE 200 index hit fresh 52-week highs, reaching their highest price levels in the past year. A stock hitting a 52-week high is generally viewed as a positive technical signal, indicating strong investor interest, improving market sentiment, and potential upward momentum in the share price. New Peaks",
+    "content": "On Friday, the benchmark Sensex slipped 455 points to settle at 78,499. Despite the broader market weakness, eight stocks from the BSE 200 index hit fresh 52-week highs, reaching their highest price levels in the past year. A stock hitting a 52-week ... [545 chars]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/aurobindo-pharma-among-8-stocks-hitting-52-week-highs-surge-up-to-20-in-a-month/slideshow/133032470.cms",
+    "image": "https://img.etimg.com/thumb/msid-133032470,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+    "publishedAt": "2026-08-07T11:25:00Z",
+    "lang": "en",
+    "source": {
+      "id": "5464668c1f0466950a0b2fab5249ec6c",
+      "name": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "43cb003cb285b8dfb63a632b0c2a82dd",
+    "title": "Top Gainers & Losers on 7 August: Bajaj Finance, Navin Fluorine, Trent, Tata Capital, Swiggy among top losers",
+    "description": "The Indian stock market struggled on August 7, with the Nifty 50 down 0.32% and the Sensex declining 0.59%. Concerns over a potential peace deal in the Middle East and financial sector weaknesses led to mixed performance among broader markets and sector indices.",
+    "content": "A Ksheerasagar\nKsheera Sagar has been working as a Market Research Analyst at LiveMint for the past four years, covering stocks, commodities, and broader financial markets. In this role, he closely tracks daily market movements, corporate earnings, s... [1180 chars]",
+    "url": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-7-august-bajaj-finance-navin-fluorine-trent-tata-capital-swiggy-among-top-losers-11786097361207.html",
+    "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/2-0-1309458163-bse--1--0_1679981984752_1786097357919_c8c02f8f-3660-4450-a37d-25c55fbfb6e0.jpg",
+    "publishedAt": "2026-08-07T10:13:41Z",
+    "lang": "en",
+    "source": {
+      "id": "3bd4bd306c42647825fa42989624c036",
+      "name": "Livemint",
+      "url": "https://www.livemint.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "3b019169088aeaa32b38016dbc4a32f3",
+    "title": "Wall St Week Ahead-Inflation data to test record-setting US stocks, Fed rate views",
+    "description": "The US stock market, led by tech shares, will face a crucial test next week with fresh inflation data potentially prompting the Federal Reserve to raise interest rates.",
+    "content": "A sharp technology-led rally that has lifted the ​U.S. stock market to record peaks will be tested next week by fresh ‌inflation ​data, which could build the case for the Federal Reserve to raise interest rates.\nThe S&P 500 this week posted its first... [4501 chars]",
+    "url": "https://www.devdiscourse.com/article/technology/3961061-wall-st-week-ahead-inflation-data-to-test-record-setting-us-stocks-fed-rate-views",
+    "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/09_09_2025_23_20_53_4931525.png&width=920&format=jpeg",
+    "publishedAt": "2026-08-07T10:00:32Z",
+    "lang": "en",
+    "source": {
+      "id": "c6a01ba91c1a2bc3f53f4707110bfee5",
+      "name": "Devdiscourse",
+      "url": "https://www.devdiscourse.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "d6b5ec1ed9242ba253d96c0764c7bcfc",
+    "title": "Same salary, different story: Why your colleague got a bigger loan than you",
+    "description": "You and your colleague both earn ₹50,000 a month. Same age, same kind of company, same job title. Yet when you both apply for a personal loan, they get approved for ₹8 lakhs at a low interest rate, and you're offered just ₹5 lakhs at a much higher EMI.Sounds unfair? It's actually normal. Banks don't lend based on salary alone. They look at your entire financial behaviour before deciding how much to trust you with. India's personal loan market grew 25% in 2024 to over ₹10 lakh crore, and approval amounts vary wildly even for people who look identical on paper.Here's exactly what's really going on behind the scenes. Same salary, very different loan offers",
+    "content": "You and your colleague both earn ₹50,000 a month. Same age, same kind of company, same job title. Yet when you both apply for a personal loan, they get approved for ₹8 lakhs at a low interest rate, and you're offered just ₹5 lakhs at a much higher EM... [3907 chars]",
+    "url": "https://economictimes.indiatimes.com/wealth/borrow/same-salary-different-story-why-your-colleague-got-a-bigger-loan-than-you/slideshow/133020606.cms",
+    "image": "https://img.etimg.com/thumb/msid-133020606,width-1200,height-900,overlay-etwealth/slideshow.jpg",
+    "publishedAt": "2026-08-07T03:56:00Z",
+    "lang": "en",
+    "source": {
+      "id": "5464668c1f0466950a0b2fab5249ec6c",
+      "name": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "c0b6a8e66fdeb2a45948f7c849ee6b6b",
+    "title": "Banks tone down rate-hike bets as RBI sounds dovish on prices",
+    "description": "Some banks now anticipate fewer policy rate increases from the Reserve Bank of India. Yes Bank and State Bank of India have revised their earlier rate hike forecasts. MUFG Bank has also pushed back its expected policy rate hike timing. Other banks maintain their forecasts for cumulative rate increases this fiscal year. Inflation projections remain sensitive to future crude oil price movements.",
+    "content": "Synopsis\nSome banks now anticipate fewer policy rate increases from the Reserve Bank of India. Yes Bank and State Bank of India have revised their earlier rate hike forecasts. MUFG Bank has also pushed back its expected policy rate hike timing. Other... [4502 chars]",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/banks-tone-down-rate-hike-bets-as-rbi-sounds-dovish-on-prices/articleshow/133018263.cms",
+    "image": "https://img.etimg.com/thumb/msid-133018270,width-1200,height-630,imgsize-54980,overlay-etmarkets/articleshow.jpg",
+    "publishedAt": "2026-08-07T00:35:00Z",
+    "lang": "en",
+    "source": {
+      "id": "5464668c1f0466950a0b2fab5249ec6c",
+      "name": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com",
       "country": "in"
     }
   },
@@ -1088,61 +1120,13 @@
     }
   },
   {
-    "id": "7ce44e136a764b4ad5ae5f5d97e2ec88",
-    "title": "India's economic growth may moderate in H2FY27, accelerate to 7.2% in FY28: Report",
-    "description": "India's economic growth will likely moderate in the second half of FY27. Growth may strengthen to around 7.2 per cent in FY28, says ICICI Bank. The Monetary Policy Committee kept the repo rate unchanged at 5.25 per cent. Most high-frequency indicators point to robust growth in the first quarter. RBI sees risks to both growth and inflation as evenly balanced.",
-    "content": "Synopsis\nIndia's economic growth will likely moderate in the second half of FY27. Growth may strengthen to around 7.2 per cent in FY28, says ICICI Bank. The Monetary Policy Committee kept the repo rate unchanged at 5.25 per cent. Most high-frequency ... [3495 chars]",
-    "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-economic-growth-may-moderate-in-h2fy27-accelerate-to-7-2-in-fy28-report/articleshow/132980491.cms",
-    "image": "https://img.etimg.com/thumb/msid-132980554,width-1200,height-630,imgsize-234500,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-06T03:42:00Z",
-    "lang": "en",
-    "source": {
-      "id": "5464668c1f0466950a0b2fab5249ec6c",
-      "name": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "0840de2645474b441cb6382545fc6707",
-    "title": "Why the RBI is emerging as an Asian rate outlier",
-    "description": "The Reserve Bank of India is emerging as one of Asia’s monetary policy holdouts, confident the latest oil shock won’t derail economic growth or fuel the kind of persistent inflation that would warrant higher interest rates.",
-    "content": "The Reserve Bank of India is emerging as one of Asia’s monetary policy holdouts, confident the latest oil shock won’t derail economic growth or fuel the kind of persistent inflation that would warrant higher interest rates.\nReserve Bank of India Gove... [3912 chars]",
-    "url": "https://www.thehindubusinessline.com/money-and-banking/why-the-rbi-is-emerging-as-an-asian-rate-outlier/article71311918.ece",
-    "image": "https://bl-i.thgim.com/public/incoming/p9yj8l/article71311975.ece/alternates/LANDSCAPE_1200/2026-08-05T071000Z_1003846061_RC26SMAAM70V_RTRMADP_3_INDIA-ECONOMY-RATES.JPG",
-    "publishedAt": "2026-08-06T03:10:04Z",
-    "lang": "en",
-    "source": {
-      "id": "680f00482cbf9f314921fefd917871d9",
-      "name": "The Hindu Business Line",
-      "url": "https://www.thehindubusinessline.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "152626060cc79108541ef7941428cd33",
-    "title": "India's mutual fund assets hit record ₹73.7 lakh crore in FY26 as SIP participation strengthens",
-    "description": "More Indians continued to invest through mutual funds in FY26, with record SIP contributions helping the industry's assets under management climb to ₹73.7 lakh crore.",
-    "content": "More Indians continued to invest through mutual funds in FY26, with record SIP contributions helping the industry's assets under management climb to ₹73.7 lakh crore.\nBy Srabastee Biswas\nIndia's mutual fund industry extended its growth trajectory in ... [2405 chars]",
-    "url": "https://www.cnbctv18.com/personal-finance/mutual-fund-aum-climbs-to-record-rs73-7-lakh-crore-as-sip-participation-strengthens-sebi-19963664.htm",
-    "image": "https://images.cnbctv18.com/uploads/2026/08/image-2026-08-64814c0e3a1088f46c9803c1450bfc3f.jpg?im=FitAndFill,width=1200,height=675",
-    "publishedAt": "2026-08-06T15:50:11Z",
-    "lang": "en",
-    "source": {
-      "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
-      "name": "CNBC TV18",
-      "url": "https://www.cnbctv18.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "1a832815f7907364cc8b9bc0656a3f50",
-    "title": "Mutual Fund AUM hits ₹73.7 Lakh Crore as SIP Accounts Reach Record 10.45 Crore: SEBI report",
-    "description": "India's mutual fund industry continued its strong growth momentum in FY2025-26, with average assets under management (AUM) rising 12.2% to a record ₹73.7 lakh crore, supported by sustained retail participation and robust SIP inflows, according to SEBI's Annual Report 2025-26.",
-    "content": "India's mutual fund industry continued its rapid expansion in FY2025-26, with assets under management (AUM) reaching a record ₹73.7 lakh crore, driven by strong retail participation, rising systematic investment plan (SIP) inflows and growing investo... [3647 chars]",
-    "url": "https://www.businesstoday.in/mutual-funds/story/mutual-fund-aum-hits-rs73-7-lakh-crore-as-sip-accounts-reach-record-10-45-crore-sebi-report-547779-2026-08-06",
-    "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a749ce340a43-mutual-funds-064029620-16x9.png",
-    "publishedAt": "2026-08-06T14:40:58Z",
+    "id": "57784a5eb71668bd2c912e6aa7c6b472",
+    "title": "PPFAS MF's Rajeev Thakkar explains why the fund isn't chasing OpenAI like AI stocks",
+    "description": "As excitement around artificial intelligence fuels investor interest, PPFAS Mutual Fund is taking a cautious approach by avoiding direct bets on pure-play AI model developers. CIO Rajeev Thakkar says the fund prefers diversified technology companies and AI infrastructure providers over trying to predict which foundation model will ultimately dominate.",
+    "content": "AI race is no longer a two-player game\nExplaining why PPFAS Mutual Fund is avoiding direct exposure to pure-play AI model companies, Rajeev Thakkar said the competitive landscape has changed significantly over the past year.\n\"From a time early in thi... [3213 chars]",
+    "url": "https://www.businesstoday.in/mutual-funds/story/ppfas-mfs-rajeev-thakkar-explains-why-the-fund-isnt-chasing-openai-like-ai-stocks-548071-2026-08-07",
+    "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a75e4095bd52-rather-than-investing-in-companies-whose-fortunes-depend-on-a-single-ai-model--ppfas-prefers-global-075614534-16x9.png",
+    "publishedAt": "2026-08-07T13:56:39Z",
     "lang": "en",
     "source": {
       "id": "76a2f820b104591b97fed1b0932cec38",
@@ -1152,29 +1136,13 @@
     }
   },
   {
-    "id": "a5e32bdc31b1d261cb21e6ba80f5142d",
-    "title": "Startup founder who earned Rs 30,000 now invests Rs 52 lakh in SIPs every month",
-    "description": "A startup founder has revealed that he and his family invest Rs 52 lakh every month through mutual fund SIPs and now have a net worth of Rs 67 crore. Speaking on a podcast, he recalled earning a Rs 30,000 monthly salary after moving to Mumbai in 2004 and shared details of his financial journey and investment approach over the years.",
-    "content": "Synopsis\nA startup founder has revealed that he and his family invest Rs 52 lakh every month through mutual fund SIPs and now have a net worth of Rs 67 crore. Speaking on a podcast, he recalled earning a Rs 30,000 monthly salary after moving to Mumba... [3996 chars]",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/startup-founder-who-earned-rs-30000-now-invests-rs-52-lakh-in-sips-every-month/articleshow/133000413.cms",
-    "image": "https://img.etimg.com/thumb/msid-133001550,width-1200,height-630,imgsize-95238,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-06T11:31:00Z",
-    "lang": "en",
-    "source": {
-      "id": "5464668c1f0466950a0b2fab5249ec6c",
-      "name": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "e352f54c517fc5db66232345046f4469",
-    "title": "Baroda BNP Paribas MF raises over ₹1,200 crore through ESG and Services thematic funds",
-    "description": "Baroda BNP Paribas Mutual Fund raises over ₹1,200 crore from ESG and Services thematic equity funds, reflecting investor interest in long-term trends.",
-    "content": "Baroda BNP Paribas Mutual Fund raised over ₹1,200 crore from two thematic equity funds in 2026: ESG Best-in-Class Strategy Fund and Services Fund.\nBy CNBCTV18\nBaroda BNP Paribas Mutual Fund has mobilised more than ₹1,200 crore through two thematic eq... [1650 chars]",
-    "url": "https://www.cnbctv18.com/personal-finance/baroda-bnp-paribas-mutual-fund-raises-rs-1200-crore-esg-services-thematic-19963420.htm",
-    "image": "https://images.cnbctv18.com/uploads/2026/08/image-2026-08-39a4c421dc13227b1fdb6782afd5c822.jpg?im=FitAndFill,width=1200,height=675",
-    "publishedAt": "2026-08-06T11:19:54Z",
+    "id": "9bf7ce8fea1bfc9584dfcb4d9328ec57",
+    "title": "Quant MF turns bullish on India, expects largecaps and IT to lead amid global volatility",
+    "description": "Quant Mutual Fund remains bullish on Indian equities despite expecting global market volatility, saying foreign investment could increasingly flow to India. The fund house is positive on largecaps, IT, PSU stocks and NBFCs.",
+    "content": "Quant Mutual Fund remains bullish on Indian equities despite expecting global market volatility, saying foreign investment could increasingly flow to India. The fund house is positive on largecaps, IT, PSU stocks and NBFCs.\nQuant Mutual Fund, which m... [2971 chars]",
+    "url": "https://www.cnbctv18.com/market/quant-mf-turns-bullish-on-india-expects-largecaps-and-it-to-lead-amid-global-volatility-19964344.htm",
+    "image": "https://images.cnbctv18.com/uploads/2026/08/1785733787_Dm4oyDh6p9-stock-market1jpg-scYN1dLPAQ.jpg?im=FitAndFill,width=1200,height=675",
+    "publishedAt": "2026-08-07T11:49:51Z",
     "lang": "en",
     "source": {
       "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
@@ -1184,29 +1152,29 @@
     }
   },
   {
-    "id": "fc2646983911601ba159b5a0f143fc42",
-    "title": "SBI MF launches Magnum Equity Ex-top 100 Long Short fund",
-    "description": "SBI Mutual Fund launches Magnum Equity Ex-Top 100 Long Short Fund, open for subscription on August 7, 2023.",
-    "content": "SBI Mutual Fund, the country’s largest fund house, will launch its its second investment strategy under the Specialised Investment Fund framework, Magnum Equity Ex-Top 100 Long Short Fund.\nThe open-ended investment strategy will invest in equity and ... [1715 chars]",
-    "url": "https://www.thehindubusinessline.com/money-and-banking/sbi-mf-launches-magnum-equity-ex-top-100-long-short-fund/article71313210.ece",
-    "image": "https://bl-i.thgim.com/public/incoming/8mlck9/article71313249.ece/alternates/LANDSCAPE_1200/IMG_BL23_MW_SBI_new_2_1_9ODBFOSS.jpg",
-    "publishedAt": "2026-08-06T11:06:23Z",
+    "id": "78722e7a64abd723d128ef7050ce356c",
+    "title": "Action Construction Equipment schedules analyst meets on Aug 10, 19",
+    "description": "Action Construction Equipment Limited has announced virtual investor meetings with LIC Mutual Fund Ltd on August 10 and Invisage Capital on August 19, 2026. The disclosures comply with SEBI Regulation 30, ensuring transparent communication with institutional stakeholders.",
+    "content": "Action Construction Equipment has scheduled two institutional investor meetings for August 2026, aiming to engage with key financial stakeholders regarding its business outlook. The company notified the Bombay Stock Exchange and the National Stock Ex... [7402 chars]",
+    "url": "https://scanx.trade/stock-market-news/companies/action-construction-equipment-schedules-analyst-meets-on-aug-10-19/47647606",
+    "image": "http://news-images.dhan.co/action-construction-equipment-schedules-analyst-meets-on-aug-10-19.jpg",
+    "publishedAt": "2026-08-07T11:26:57Z",
     "lang": "en",
     "source": {
-      "id": "680f00482cbf9f314921fefd917871d9",
-      "name": "The Hindu Business Line",
-      "url": "https://www.thehindubusinessline.com",
+      "id": "f746366686e467440a63dd26dbb72053",
+      "name": "scanx.trade",
+      "url": "https://scanx.trade",
       "country": "in"
     }
   },
   {
-    "id": "fc12d8f5dc3590f9b06ff67e3e2a7b90",
-    "title": "Baroda BNP Paribas MF raises Rs 1,200 crore+ from ESG and Services thematic fund launches",
-    "description": "Baroda BNP Paribas Mutual Fund raised over Rs 1,200 crore through its ESG Best-in-Class Strategy Fund and Services Fund launches in 2026. The offerings drew investors from more than 5,700 pin codes, highlighting strong demand for thematic, long-term equity investment opportunities across India.",
-    "content": "Synopsis\nBaroda BNP Paribas Mutual Fund raised over Rs 1,200 crore through its ESG Best-in-Class Strategy Fund and Services Fund launches in 2026. The offerings drew investors from more than 5,700 pin codes, highlighting strong demand for thematic, l... [4180 chars]",
-    "url": "https://economictimes.indiatimes.com/mf/mf-news/baroda-bnp-paribas-mf-raises-rs-1200-crore-from-esg-and-services-thematic-fund-launches/articleshow/132997603.cms",
-    "image": "https://img.etimg.com/thumb/msid-132997603,width-1200,height-630,imgsize-159126,overlay-etwealthmutualfunds/articleshow.jpg",
-    "publishedAt": "2026-08-06T10:24:00Z",
+    "id": "7f634d3b920cd0a69f4c633565553de4",
+    "title": "Unclaimed mutual fund money rises 10% in FY26; AMCs hold over Rs 3,811 crore in unpaid dividends, redemptions: Sebi",
+    "description": "Unclaimed mutual fund assets rose nearly 10% to Rs 3,811 crore in FY26, led by higher unclaimed dividends, Sebi said. Despite this, mutual fund assets, SIP contributions and investor participation expanded strongly, reflecting sustained retail interest and industry growth.",
+    "content": "Synopsis\nUnclaimed mutual fund assets rose nearly 10% to Rs 3,811 crore in FY26, led by higher unclaimed dividends, Sebi said. Despite this, mutual fund assets, SIP contributions and investor participation expanded strongly, reflecting sustained reta... [7245 chars]",
+    "url": "https://economictimes.indiatimes.com/mf/mf-news/unclaimed-mutual-fund-money-rises-10-in-fy26-amcs-hold-over-rs-3811-crore-in-unpaid-dividends-redemptions-sebi/articleshow/133032199.cms",
+    "image": "https://img.etimg.com/thumb/msid-133032267,width-1200,height-630,imgsize-96678,overlay-etwealthmutualfunds/articleshow.jpg",
+    "publishedAt": "2026-08-07T11:15:00Z",
     "lang": "en",
     "source": {
       "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -1216,13 +1184,61 @@
     }
   },
   {
-    "id": "a4a0dc1491a7d25f2863ae020ece020c",
-    "title": "NFO Alert: SBI Mutual Fund launches Magnum Equity Ex-Top 100 Long Short Fund",
-    "description": "SBI Mutual Fund has announced the launch of its Magnum Equity Ex-Top 100 Long Short Fund under the Specialized Investment Fund framework. Opening on August 7, the NFO targets long-term capital growth by investing outside the top 100 stocks with a long-short strategy using equity derivatives.",
-    "content": "Synopsis\nSBI Mutual Fund has announced the launch of its Magnum Equity Ex-Top 100 Long Short Fund under the Specialized Investment Fund framework. Opening on August 7, the NFO targets long-term capital growth by investing outside the top 100 stocks w... [4898 chars]",
-    "url": "https://economictimes.indiatimes.com/mf/mf-news/nfo-alert-sbi-mutual-fund-launches-magnum-equity-ex-top-100-long-short-fund/articleshow/132996664.cms",
-    "image": "https://img.etimg.com/thumb/msid-132996711,width-1200,height-630,imgsize-93885,overlay-etwealthmutualfunds/articleshow.jpg",
-    "publishedAt": "2026-08-06T10:00:00Z",
+    "id": "6bec638b11c2a2819b8b5ff5c5dc86d2",
+    "title": "SEBI Annual Report FY26: Finfluencer Regulations, F&O Market Cooling, and Retail Investor Protection Policies Explained",
+    "description": "Discover SEBI's FY26 Annual Report insights: finfluencer rules, F&O market cooling, mutual fund growth, and new policies for retail investors.",
+    "content": "The Securities and Exchange Board of India (Sebi) has released its Annual Report for the financial year 2025-26. The market regulator has detailed structural shifts and operational trends across the financial ecosystem.\nSebi’s findings are set to def... [4798 chars]",
+    "url": "https://www.outlookmoney.com/invest/sebi-annual-report-know-what-changed-from-your-social-media-feed-to-your-portfolio-in-fy26",
+    "image": "https://media.assettype.com/outlookmoney/2026-06-24/ccpdws14/AI-adoption-pix.jpg?w=1200",
+    "publishedAt": "2026-08-07T07:40:49Z",
+    "lang": "en",
+    "source": {
+      "id": "bb30de23eec2cc576488c93582eaeb76",
+      "name": "Outlook Money",
+      "url": "https://www.outlookmoney.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "55781dda2dbd60a0f0539f6ee6ee70b9",
+    "title": "Nominee is not the owner: Who actually gets your mutual funds and bank balance after death?",
+    "description": "A nominee is appointed to ensure that banks, mutual fund houses, insurers, and other financial institutions can transfer assets smoothly after the account holder's death",
+    "content": "Many people assume that the person named as a nominee in a bank account or mutual fund automatically becomes the owner of the money after the account holder's death. However, legal experts say that this is one of the most common misconceptions in est... [2476 chars]",
+    "url": "https://www.businesstoday.in/mutual-funds/story/nominee-is-not-the-owner-who-actually-gets-your-mutual-funds-and-bank-balance-after-death-547870-2026-08-07",
+    "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a758b32c9fce-kotak-mf-073717700-16x9.jpg",
+    "publishedAt": "2026-08-07T07:38:18Z",
+    "lang": "en",
+    "source": {
+      "id": "76a2f820b104591b97fed1b0932cec38",
+      "name": "Business Today",
+      "url": "https://www.businesstoday.in",
+      "country": "in"
+    }
+  },
+  {
+    "id": "40e154e04050c1c392d7fb09fb2d89ae",
+    "title": "Leap India Collects ₹744 Cr From Anchor Investors; IPO To Open On Aug 7",
+    "description": "Domestic institutional investors participating in the anchor book included Axis Mutual Fund, Motilal Oswal Mutual Fund, Bank of India Mutual Fund, JM Financial Mutual Fund, ITI Mutual Fund, Groww Mutual Fund, and Aditya Birla Sun Life Insurance Company.",
+    "content": "Supply chain asset pooling firm LEAP India Ltd on Thursday mobilised ₹743.62 crore from a clutch of institutional investors, including Smallcap World Fund and Monetary Authority of Singapore, ahead of its initial public offering (IPO).\nThe company al... [1973 chars]",
+    "url": "https://www.outlookbusiness.com/markets/leap-india-collects-744-cr-from-anchor-investors-ipo-to-open-on-aug-7",
+    "image": "https://media.assettype.com/outlookbusiness/2026-08-06/ps0h84gs/Leap-India.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+    "publishedAt": "2026-08-07T05:22:25Z",
+    "lang": "en",
+    "source": {
+      "id": "c0017d351977ceb4ddc2cc7ec633c5cf",
+      "name": "Outlook Business",
+      "url": "https://www.outlookbusiness.com",
+      "country": "in"
+    }
+  },
+  {
+    "id": "c98ccbd565242b4c02aee50002167743",
+    "title": "Sensex down nearly 8% in 2026. Best time to top up your mutual fund SIPs?",
+    "description": "The BSE Sensex has declined nearly eight percent, prompting investors to consider increasing mutual fund SIP contributions. Market experts suggest this correction is normal and investors should continue SIPs without interruption. Lower markets allow for the accumulation of more units over the long term. Investors should review their portfolios and rebalance asset allocation if needed. Monitoring crude oil prices and global policies will guide future market direction.",
+    "content": "Synopsis\nThe BSE Sensex has declined nearly eight percent, prompting investors to consider increasing mutual fund SIP contributions. Market experts suggest this correction is normal and investors should continue SIPs without interruption. Lower marke... [7605 chars]",
+    "url": "https://economictimes.indiatimes.com/mf/analysis/sensex-down-nearly-8-in-2026-best-time-to-top-up-your-mutual-fund-sips/articleshow/133021148.cms",
+    "image": "https://img.etimg.com/thumb/msid-133021232,width-1200,height-630,imgsize-2133409,overlay-etwealthmutualfunds/articleshow.jpg",
+    "publishedAt": "2026-08-07T04:31:00Z",
     "lang": "en",
     "source": {
       "id": "5464668c1f0466950a0b2fab5249ec6c",
@@ -1232,50 +1248,34 @@
     }
   },
   {
-    "id": "c65241efee2e347d627dc698074dec94",
-    "title": "42 equity mutual funds deliver over 15% CAGR in 10 years, turn lump-sum investments 4x",
-    "description": "Around 42 equity mutual funds generated a CAGR of more than 15% over the past decade, turning a Rs 1 lakh lump-sum investment into over Rs 4 lakh. Nippon India Small Cap Fund topped the list with a 20.61% CAGR, while several Quant, HDFC and SBI schemes also delivered stellar returns.",
-    "content": "Synopsis\nAround 42 equity mutual funds generated a CAGR of more than 15% over the past decade, turning a Rs 1 lakh lump-sum investment into over Rs 4 lakh. Nippon India Small Cap Fund topped the list with a 20.61% CAGR, while several Quant, HDFC and ... [5981 chars]",
-    "url": "https://economictimes.indiatimes.com/mf/analysis/42-equity-mutual-funds-deliver-over-15-cagr-in-10-years-turn-lump-sum-investments-4x/articleshow/132995106.cms",
-    "image": "https://img.etimg.com/thumb/msid-132995106,width-1200,height-630,imgsize-2189293,overlay-etwealthmutualfunds/articleshow.jpg",
-    "publishedAt": "2026-08-06T09:18:00Z",
+    "id": "1c1ffe5255e2f3c8b909560c8ddab3bd",
+    "title": "PGIM India MF temporarily suspends SIPs in select overseas mutual funds",
+    "description": "PGIM India Mutual Fund suspends SIPs, STPs in 3 overseas funds due to SEBI regulatory limits. Investors can still redeem.",
+    "content": "PGIM India Mutual Fund suspends SIPs, STPs in 3 overseas funds due to SEBI regulatory limits. Investors can still redeem.\nBy Anshul\nPGIM India Mutual Fund has temporarily suspended all existing Systematic Investment Plans (SIPs) and Systematic Transf... [2230 chars]",
+    "url": "https://www.cnbctv18.com/personal-finance/pgim-india-suspends-sips-overseas-mutual-funds-impact-investments-19963863.htm",
+    "image": "https://images.cnbctv18.com/uploads/2026/08/image-2026-08-70c7980be93002706cc40ed060ffa856.jpg?im=FitAndFill,width=1200,height=675",
+    "publishedAt": "2026-08-07T02:47:58Z",
     "lang": "en",
     "source": {
-      "id": "5464668c1f0466950a0b2fab5249ec6c",
-      "name": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com",
+      "id": "4bf882bd9fc07a7fc3ab723f04e4f261",
+      "name": "CNBC TV18",
+      "url": "https://www.cnbctv18.com",
       "country": "in"
     }
   },
   {
-    "id": "bd27443978e5ddd0a834cce81511707a",
-    "title": "This Mumbai founder went from ₹30,000 salary to ₹67 crore net worth, now invests ₹52 lakh monthly",
-    "description": "Gajendra Kothari, the co-founder of Etica Wealth, has revealed that he puts ₹52 lakh into mutual fund SIPs every month, and has a net worth of ₹67 crore. | Trending",
-    "content": "Gajendra Kothari, the co-founder of Etica Wealth, has revealed that he puts ₹52 lakh into mutual fund SIPs every month, and has a net worth of ₹67 crore. During a recent appearance on Kunal Jaisingh’s podcast, the Mumbai-based entrepreneur opened up ... [2145 chars]",
-    "url": "https://www.hindustantimes.com/trending/this-mumbai-founder-went-from-rs-30-000-salary-to-rs-67-crore-net-worth-now-invests-rs-52-lakh-monthly-101786006441558.html",
-    "image": "https://www.hindustantimes.com/ht-img/img/2026/08/06/1600x900/logo/1731825752594_1786006847334_1786006861267_ee3b02bc-67f8-4678-8cfa-bd2443f9cca7.jpg",
-    "publishedAt": "2026-08-06T09:01:33Z",
+    "id": "cd0041eef15375b9a1a36c28811823ab",
+    "title": "Bandhan Mutual Fund's new fund targets overlooked companies. Here's what investors should know",
+    "description": "The strategy aims to identify companies that could see a re-rating as business fundamentals improve and investor sentiment turns more favourable over time.",
+    "content": "Bandhan Mutual Fund is launching a new equity scheme that bets on companies the market has temporarily overlooked, offering investors an opportunity to benefit from potential recoveries in fundamentally strong businesses, according to a report by Mon... [2067 chars]",
+    "url": "https://www.businesstoday.in/personal-finance/story/bandhan-mutual-funds-new-fund-targets-overlooked-companies-heres-what-investors-should-know-547774-2026-08-07",
+    "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a749a44b9a62-the-new-fund-offer-nfo-will-open-for-subscription-on-august-10-and-close-on-august-24-062918927-16x9.jpg",
+    "publishedAt": "2026-08-07T01:30:04Z",
     "lang": "en",
     "source": {
-      "id": "21468bec836de1ebb209ff6f78fbfe3e",
-      "name": "Hindustan Times",
-      "url": "https://www.hindustantimes.com",
-      "country": "in"
-    }
-  },
-  {
-    "id": "72c9e57590076a597d80699e87597611",
-    "title": "Looking for the best small-cap mutual funds? These 5 funds generated over 20% annualised SIP returns over 10 years",
-    "description": "Five small-cap mutual funds delivered annualised SIP returns of more than 20% over the past decade, highlighting the category's long-term wealth-creation potential. A comparison of three-, five- and 10-year returns also shows how leadership has evolved across different market cycles.",
-    "content": "Small-cap mutual funds have emerged as some of the biggest long-term wealth creators for SIP investors. Data from Value Research shows that five small-cap mutual funds generated annualised SIP returns of more than 20% over the past 10 years, highligh... [2293 chars]",
-    "url": "https://www.livemint.com/money/personal-finance/looking-for-the-best-small-cap-mutual-funds-these-5-funds-generated-over-20-annualised-sip-returns-over-10-years-11786005047451.html",
-    "image": "https://www.livemint.com/lm-img/img/2026/08/06/1600x900/logo/Gemini_Generated_Image_5f5phl5f5phl5f5p_1786006001141_1786006006772_d8369ed6-7e05-45a3-988d-843c9f460af5.png",
-    "publishedAt": "2026-08-06T08:59:26Z",
-    "lang": "en",
-    "source": {
-      "id": "3bd4bd306c42647825fa42989624c036",
-      "name": "Livemint",
-      "url": "https://www.livemint.com",
+      "id": "76a2f820b104591b97fed1b0932cec38",
+      "name": "Business Today",
+      "url": "https://www.businesstoday.in",
       "country": "in"
     }
   }
